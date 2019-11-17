@@ -1,0 +1,740 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Новая работа предложила объяснение того, как могущественное государство погибло при нападении более слабых соседей.
+1	Новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	предложила	предложить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	объяснение	объяснение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	obj	_	_
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	как	как	SCONJ	_	_	10	mark	_	_
+8	могущественное	могущественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+10	погибло	погибнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	_
+11	при	при	ADP	_	_	12	case	_	_
+12	нападении	нападение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+13	более	более	ADV	_	Degree=Cmp	14	obl	_	_
+14	слабых	слабый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	соседей	сосед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = Команда исследователей из Йельского университета и Университета штата Калифорния рассмотрела период падения Ассирийской империи, проанализировав комплексные данные о том времени.
+1	Команда	команда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	исследователей	исследователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	из	из	ADP	_	_	5	case	_	_
+4	Йельского	Йельский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	Университета	Университет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	conj	_	_
+8	штата	штат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	Калифорния	Калифорния	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
+10	рассмотрела	рассмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	Ассирийской	Ассирийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	империи	империя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	проанализировав	анализировать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	10	advcl	_	_
+17	комплексные	комплексный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	18	amod	_	_
+18	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	16	obj	_	_
+19	о	о	ADP	_	_	21	case	_	_
+20	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	21	det	_	_
+21	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 3
+# text = Статью со своими выводами авторы опубликовали в Science Advances.
+1	Статью	статья	NUM	_	Case=Ins	6	nummod	_	_
+2	со	с	ADP	_	_	4	case	_	_
+3	своими	свой	DET	_	Case=Ins|Number=Plur	4	det	_	_
+4	выводами	вывод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	_
+5	авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	опубликовали	опубликовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	в	в	ADP	_	_	6	case	_	_
+8	Science	Science	PROPN	_	Foreign=Yes	6	flat:foreign	_	_
+9	Advances	Advances	PROPN	_	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4
+# text = Ассирийское государство было могущественнейшим и крупнейшим для своего времени.
+1	Ассирийское	Ассирийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	могущественнейшим	могущественный	ADJ	_	Case=Ins|Degree=Sup|Gender=Masc|Number=Sing	0	root	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	крупнейшим	крупный	ADJ	_	Case=Ins|Degree=Sup|Gender=Masc|Number=Sing	4	conj	_	_
+7	для	для	ADP	_	_	9	case	_	_
+8	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	9	det	_	_
+9	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 5
+# text = Оно находилось на Ближнем Востоке, располагаясь на месте современного севера Ирака и простираясь от Ирана до Египта.
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	_	_
+2	находилось	находиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	Ближнем	ближний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	Востоке	Восток	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	располагаясь	располагаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+10	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	севера	север	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	Ирака	Ирак	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	простираясь	простираться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	conj	_	_
+15	от	от	ADP	_	_	16	case	_	_
+16	Ирана	Иран	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obl	_	_
+17	до	до	ADP	_	_	18	case	_	_
+18	Египта	Египет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Два века империя господствовала в этом регионе, а затем, в 612 году до н.э., на нее напали соседи — Вавилон и Мидия, — и государство пало в одночасье, сразу после захвата столицы.
+1	Два	два	NUM	_	Case=Nom|Gender=Masc	2	nummod:gov	_	_
+2	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nummod:gov	_	_
+3	империя	империя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	господствовала	господствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	7	det	_	_
+7	регионе	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	а	а	CCONJ	_	_	14	cc	_	_
+10	затем	затем	ADV	_	Degree=Pos	14	orphan	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	612	612	NUM	_	_	14	nummod	_	_
+14	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	conj	_	_
+15	до	до	ADP	_	_	17	case	_	_
+16	н.	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing	17	det	_	SpaceAfter=No
+17	э.	эра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	на	на	ADP	_	_	20	case	_	_
+20	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	21	obl	_	_
+21	напали	напасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+22	соседи	сосед	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	_
+23	—	—	PUNCT	_	_	24	punct	_	_
+24	Вавилон	Вавилон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	Мидия	Мидия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	24	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	31	punct	_	_
+28	—	—	PUNCT	_	_	31	punct	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	_
+31	пало	пасть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	acl:relcl	_	_
+32	в	в	ADP	_	_	33	case	_	_
+33	одночасье	одночасье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	37	punct	_	_
+35	сразу	сразу	ADV	_	Degree=Pos	37	obl	_	_
+36	после	после	ADP	_	_	37	case	_	_
+37	захвата	захват	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	obl	_	_
+38	столицы	столица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = Гибель Ассирии всегда была загадкой для историков.
+1	Гибель	гибель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	Ассирии	Ассирия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	всегда	всегда	ADV	_	Degree=Pos	5	advmod	_	_
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	загадкой	загадкь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	историков	историк	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 8
+# text = Масса сохранившихся документов того времени (спасибо огнестойким клинописным табличкам из глины), полевые исследования и раскопки, ведущиеся уже более 180 лет, не смогли прояснить ситуацию.
+1	Масса	масса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+2	сохранившихся	сохраниться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	3	amod	_	_
+3	документов	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	того	тот	DET	_	Case=Gen|Gender=Neut|Number=Sing	5	det	_	_
+5	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	parataxis	_	_
+8	огнестойким	огнестойкий	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	amod	_	_
+9	клинописным	клинописный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	amod	_	_
+10	табличкам	табличка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	iobj	_	_
+11	из	из	ADP	_	_	12	case	_	_
+12	глины	глина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	полевые	полевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	исследования	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	conj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	раскопки	раскопка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	ведущиеся	вести	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	_
+21	уже	уже	ADV	_	Degree=Pos	22	advmod	_	_
+22	более	более	ADV	_	Degree=Cmp	24	nummod:gov	_	_
+23	180	180	NUM	_	_	24	nummod	_	_
+24	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	20	punct	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+28	прояснить	прояснить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	xcomp	_	_
+29	ситуацию	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	27	punct	_	_
+
+# sent_id = 9
+# text = Вавилоняне и мидяне были гораздо слабее и не имели достаточно мощных армий.
+1	Вавилоняне	Вавилонянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	мидяне	мидянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	гораздо	гораздо	ADV	_	Degree=Pos	6	advmod	_	_
+6	слабее	слабый	ADJ	_	Degree=Cmp	0	root	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+10	достаточно	достаточно	ADV	_	Degree=Pos	11	obl	_	_
+11	мощных	мощный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	армий	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 10
+# text = Но они смогли пройти всю страну с разных сторон, подойти к Ниневии, которая была крупнейшим городом в мире, взять столицу — и все.
+1	Но	но	CCONJ	_	_	3	cc	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
+3	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	6	det	_	_
+6	страну	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+7	с	с	ADP	_	_	9	case	_	_
+8	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	подойти	подойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	conj	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	Ниневии	Ниневия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	которая	который	PRON	_	Case=Nom	18	nsubj	_	_
+16	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
+17	крупнейшим	крупный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	городом	город	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	acl:relcl	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	взять	брать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	conj	_	_
+23	столицу	столица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
+24	—	—	PUNCT	_	_	26	punct	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 11
+# text = Ассирия больше не оправилась, и не было попыток отбить столицу.
+1	Ассирия	Ассирия	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	больше	больше	ADV	_	Degree=Cmp	4	advmod	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	оправилась	оправиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+9	попыток	попытка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nsubj	_	_
+10	отбить	отбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	obl	_	_
+11	столицу	столица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 12
+# text = Авторы статьи воспользовались, кроме прочего, данными палеоклиматических исследований.
+1	Авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	воспользовались	пользоваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	кроме	кроме	ADP	_	_	6	case	_	_
+6	прочего	прочий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	данными	данный	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	3	obl	_	_
+9	палеоклиматических	палеоклиматический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13
+# text = Они обнаружили, что за 60 лет до войны начал резко меняться климат в районе столицы.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	обнаружили	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	что	что	SCONJ	_	_	10	mark	_	_
+5	за	за	ADP	_	_	7	case	_	_
+6	60	60	NUM	_	_	7	nummod	_	_
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	obl	_	_
+8	до	до	ADP	_	_	9	case	_	_
+9	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+11	резко	резко	ADV	_	Degree=Pos	12	advmod	_	_
+12	меняться	меняться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	_
+13	климат	климат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	_
+16	столицы	столица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 14
+# text = Наступила жестокая засуха.
+1	Наступила	наступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	жестокая	жестокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	засуха	засуха	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = По мнению ученых, к моменту нападения она так ослабила страну, что ресурсов для сопротивления на два фронта не было, как и возможностей у столицы выдержать длительную осаду.
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+3	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	моменту	момент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	obl	_	_
+7	нападения	нападение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	_
+9	так	так	ADV	_	Degree=Pos	10	advmod	_	_
+10	ослабила	ослабить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	страну	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	21	punct	_	_
+13	что	что	SCONJ	_	_	21	mark	_	_
+14	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nsubj	_	_
+15	для	для	ADP	_	_	16	case	_	_
+16	сопротивления	сопротивление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	на	на	ADP	_	_	19	case	_	_
+18	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	19	nummod:gov	_	_
+19	фронта	фронт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	как	как	SCONJ	_	_	25	mark	_	_
+24	и	и	PART	_	_	25	advmod	_	_
+25	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	advcl	_	_
+26	у	у	ADP	_	_	27	case	_	_
+27	столицы	столица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	obl	_	_
+28	выдержать	выдержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	obl	_	_
+29	длительную	длительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	осаду	осада	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 16
+# text = А бесплодность окружающих территорий, по всей видимости, привела к тому, что отстраивать разрушенный город просто не стали, и он был покинут.
+1	А	а	CCONJ	_	_	10	cc	_	_
+2	бесплодность	бесплодность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+3	окружающих	окружать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+4	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	по	по	ADP	_	_	8	case	_	_
+7	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing	8	det	_	_
+8	видимости	видимость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	привела	привести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	20	punct	_	_
+14	что	что	SCONJ	_	_	20	mark	_	_
+15	отстраивать	отстраивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+16	разрушенный	разрушить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+18	просто	просто	PART	_	_	20	advmod	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	и	и	CCONJ	_	_	25	cc	_	_
+23	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	nsubj:pass	_	_
+24	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	aux:pass	_	_
+25	покинут	покинуть	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 17
+# text = Захватчики, например вавилоняне, развили у себя орошаемое земледелие, поэтому у них, несмотря на смену климата, хватало ресурсов, люди имели достаточно пищи, а власть не испытывала проблем.
+1	Захватчики	Захватчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	например	например	ADV	_	Degree=Pos	4	obl	_	_
+4	вавилоняне	вавилоняне	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	развили	развить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	у	у	ADP	_	_	8	case	_	_
+8	себя	себя	PRON	_	Case=Gen	6	obl	_	_
+9	орошаемое	орошать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	amod	_	_
+10	земледелие	земледелие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	21	punct	_	_
+12	поэтому	поэтому	ADV	_	Degree=Pos	21	advmod	_	_
+13	у	у	ADP	_	_	14	case	_	_
+14	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	21	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	несмотря	несмотря	ADV	_	Polarity=Neg	18	case	_	_
+17	на	на	ADP	_	_	16	fixed	_	_
+18	смену	смена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obl	_	_
+19	климата	климат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	18	punct	_	_
+21	хватало	хватать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+22	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nsubj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	_
+25	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+26	достаточно	достаточно	ADV	_	Degree=Pos	27	nummod:gov	_	_
+27	пищи	пища	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	а	а	CCONJ	_	_	32	cc	_	_
+30	власть	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	32	nsubj	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	испытывала	испытывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+33	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	32	obl	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 18
+# text = Ассирия же не пользовалась ирригационными сооружениями, но при этом основным источником пищи тоже было земледелие.
+1	Ассирия	Ассирия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	пользовалась	пользоваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	ирригационными	ирригационный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	сооружениями	сооружение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	но	но	CCONJ	_	_	15	cc	_	_
+9	при	при	ADP	_	_	10	case	_	_
+10	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	_
+11	основным	основной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	источником	источник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+13	пищи	пища	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	тоже	тоже	PART	_	_	15	advmod	_	_
+15	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+16	земледелие	земледелие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 19
+# text = Урожаи зерна напрямую зависели от осадков, поэтому, как только климатические изменения стали явными, проблемы начались со всех сторон.
+1	Урожаи	урожай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	зерна	зерно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	напрямую	напрямую	ADV	_	Degree=Pos	4	advmod	_	_
+4	зависели	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	осадков	осадки	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	поэтому	поэтому	ADV	_	Degree=Pos	14	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	как	как	SCONJ	_	_	14	mark	_	_
+11	только	только	PART	_	_	10	fixed	_	_
+12	климатические	климатический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	_
+14	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+15	явными	явный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+18	начались	начаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+19	со	с	ADP	_	_	21	case	_	_
+20	всех	весь	DET	_	Case=Gen|Number=Plur	21	det	_	_
+21	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 20
+# text = Рассматривая археологические источники и данные раскопок, авторы восстановили картину того, как Ассирия пыталась начать использовать ирригацию, остановив дальние военные кампании, однако, в отличие от своих соседей на юге, преуспеть у нее не получилось.
+1	Рассматривая	рассматривать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	_
+2	археологические	археологический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	источники	источник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	3	conj	_	_
+6	раскопок	раскопка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	восстановили	восстановить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	картину	картина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	как	как	SCONJ	_	_	15	mark	_	_
+14	Ассирия	Ассирия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	пыталась	пытаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl	_	_
+16	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	ирригацию	ирригация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	остановив	остановить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	_
+21	дальние	дальний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+22	военные	военный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+23	кампании	кампания	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	20	punct	_	_
+25	однако	однако	ADV	_	Degree=Pos	17	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	в	в	ADP	_	_	31	case	_	_
+28	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	fixed	_	_
+29	от	от	ADP	_	_	27	fixed	_	_
+30	своих	свой	DET	_	Case=Gen|Number=Plur	31	det	_	_
+31	соседей	сосед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	obl	_	_
+32	на	на	ADP	_	_	33	case	_	_
+33	юге	юг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	39	punct	_	_
+35	преуспеть	преуспеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	csubj	_	_
+36	у	у	ADP	_	_	37	case	_	_
+37	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	35	obl	_	_
+38	не	не	PART	_	_	39	advmod	_	_
+39	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	33	acl:relcl	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 21
+# text = Власти, терзаемые хозяйственными проблемами, боялись интриг и обрушения связей с соседями.
+1	Власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	терзаемые	терзать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	1	acl	_	_
+4	хозяйственными	хозяйственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	amod	_	_
+5	проблемами	проблема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	боялись	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	интриг	интрига	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	обрушения	обрушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+11	связей	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	соседями	сосед	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 22
+# text = Ученые проанализировали сталагмиты из пещеры Куна-Ба на северо-востоке Ирака.
+1	Ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	проанализировали	анализировать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сталагмиты	сталагмита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	из	из	ADP	_	_	5	case	_	_
+5	пещеры	пещера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	Куна-Ба	Куна-Б	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	северо-востоке	северо-восток	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+9	Ирака	Ирак	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = Растворенные в воде минералы откладываются слоями, а их анализ показывает, как менялся климат.
+1	Растворенные	Раствореть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	воде	вода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+4	минералы	минерал	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+5	откладываются	откладываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	слоями	слой	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	а	а	CCONJ	_	_	11	cc	_	_
+9	их	их	DET	_	_	10	det	_	_
+10	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	как	как	SCONJ	_	_	14	mark	_	_
+14	менялся	меняться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	ccomp	_	_
+15	климат	климат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 24
+# text = В дождевой воде содержатся тяжелый и легкий изотопы кислорода.
+1	В	в	ADP	_	_	3	case	_	_
+2	дождевой	дождевой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	воде	вода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	содержатся	содержаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	тяжелый	тяжелый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	легкий	легкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	_
+8	изотопы	изотоп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
+9	кислорода	кислород	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 25
+# text = Их соотношение чувствительно к изменениям количества осадков и температуры воздуха, а уран в слоях помогает провести точную датировку.
+1	Их	их	DET	_	_	2	det	_	_
+2	соотношение	соотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	чувствительно	чувствительно	ADV	_	Degree=Pos	5	obl	_	_
+4	к	к	ADP	_	_	5	case	_	_
+5	изменениям	изменение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	2	nmod	_	_
+6	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	осадков	осадки	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	температуры	температура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	_
+10	воздуха	воздух	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	а	а	CCONJ	_	_	16	cc	_	_
+13	уран	уран	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	слоях	слой	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	obl	_	_
+16	помогает	помогать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+17	провести	провести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	точную	точный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	датировку	датировка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = Авторы сверили эти данные с археологическими и клинописными записями и смогли определить период суперзасухи.
+1	Авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	сверили	верить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	эти	этот	DET	_	Case=Acc|Number=Plur	4	det	_	_
+4	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	2	obj	_	_
+5	с	с	ADP	_	_	9	case	_	_
+6	археологическими	археологический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	клинописными	клинописный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	conj	_	_
+9	записями	запись	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	obl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	суперзасухи	суперзасуха	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 27
+# text = Судя по всему, она началась после периода сильных дождей, который способствовал раннему росту и расширению Ассирийской империи.
+1	Судя	судить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	parataxis	_	_
+2	по	по	ADP	_	_	3	case	_	_
+3	всему	все	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+6	началась	начаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	после	после	ADP	_	_	8	case	_	_
+8	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+9	сильных	сильный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	дождей	дождь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	который	который	PRON	_	Case=Nom	13	nsubj	_	_
+13	способствовал	способствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+14	раннему	ранний	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	росту	рост	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	расширению	расширение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	conj	_	_
+18	Ассирийской	Ассирийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	империи	империя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 28
+# text = «Теперь у нас есть историческая и экологическая динамика между севером и югом и между неорошаемым и орошаемым земледелием, благодаря которой мы можем понять исторический процесс того, как вавилоняне смогли победить ассирийцев», — рассказывает автор работы профессор Харви Вайс.
+1	«Теперь	«Теперь	ADV	_	Degree=Pos	4	advmod	_	_
+2	у	у	ADP	_	_	3	case	_	_
+3	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	4	obl	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	историческая	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	экологическая	экологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	conj	_	_
+8	динамика	динамика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+9	между	между	ADP	_	_	10	case	_	_
+10	севером	север	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	югом	юг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	conj	_	_
+13	и	и	CCONJ	_	_	18	cc	_	_
+14	между	между	ADP	_	_	18	case	_	_
+15	неорошаемым	неорошаемый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	орошаемым	орошать	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	conj	_	_
+18	земледелием	земледелие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	благодаря	благодаря	ADP	_	_	21	case	_	_
+21	которой	который	PRON	_	Case=Dat	23	obl	_	_
+22	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	23	nsubj	_	_
+23	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	_
+24	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+25	исторический	исторический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+27	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	как	как	SCONJ	_	_	31	mark	_	_
+30	вавилоняне	вавилоняне	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	31	nsubj	_	_
+31	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	27	acl	_	_
+32	победить	победить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	31	xcomp	_	_
+33	ассирийцев»	ассирийцев»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	—	—	PUNCT	_	_	36	punct	_	_
+36	рассказывает	рассказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	parataxis	_	_
+37	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+38	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+39	профессор	профессор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	37	appos	_	_
+40	Харви	Харви	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	39	appos	_	_
+41	Вайс	Вайс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	flat:name	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 29
+# text = Он отмечает, что невероятный крах Ассирии до сих пор описывается историками как «мать всех катастроф».
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	невероятный	невероятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	крах	крах	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+7	Ассирии	Ассирия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	до	до	ADP	_	_	11	advmod	_	_
+9	сих	сей	DET	_	Case=Gen|Number=Plur	8	fixed	_	_
+10	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	fixed	_	_
+11	описывается	описывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	ccomp	_	_
+12	историками	историк	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	11	obl	_	_
+13	как	как	SCONJ	_	_	14	mark	_	_
+14	«мать	«мать	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	12	acl	_	_
+15	всех	весь	DET	_	Case=Gen|Number=Plur	16	det	_	_
+16	катастроф»	катастроф»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Благодаря такому методу, палеоклиматологи и археологи смогут определять экологические изменения и их роль в древних исторических процессах, чего нельзя было представить еще 25 лет назад.
+1	Благодаря	благодаря	ADP	_	_	3	case	_	_
+2	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing	3	det	_	_
+3	методу	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	палеоклиматологи	палеоклиматолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	археологи	археолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	conj	_	_
+8	смогут	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+9	определять	определять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	экологические	экологический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	изменения	изменение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	их	их	DET	_	_	14	det	_	_
+14	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	conj	_	_
+15	в	в	ADP	_	_	18	case	_	_
+16	древних	древний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+17	исторических	исторический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	процессах	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	чего	что	PRON	_	Case=Gen	23	obl	_	_
+21	нельзя	нельзя	ADV	_	Degree=Pos	14	acl:relcl	_	_
+22	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	cop	_	_
+23	представить	представить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	csubj	_	_
+24	еще	еще	ADV	_	Degree=Pos	25	advmod	_	_
+25	25	25	NUM	_	_	26	nummod	_	_
+26	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	obl	_	_
+27	назад.	назадалее	ADV	_	Degree=Pos	8	advmod	_	_
+
+# sent_id = 31
+# text = «История перестала быть двумерной, историческая сцена теперь трехмерна», — говорит Вайс.
+1	«История	«История	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	перестала	перестать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	_	_
+4	двумерной	двумерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	историческая	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	сцена	сцена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
+8	теперь	теперь	ADV	_	Degree=Pos	7	advmod	_	_
+9	трехмерна»	трехмерна»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+13	Вайс	Вайс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 32
+# text = Ранее ученые установили, что история шоколада гораздо древнее истории цивилизаций Центральной Америки, и нашли древнебиблейский город, в котором будущий царь Давид скрывался от своих врагов.
+1	Ранее	рано	ADV	_	Degree=Pos	3	advmod	_	_
+2	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	установили	установить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	что	что	SCONJ	_	_	9	mark	_	_
+6	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+7	шоколада	шоколад	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	гораздо	гораздо	ADV	_	Degree=Pos	9	advmod	_	_
+9	древнее	древний	ADV	_	Degree=Cmp	3	ccomp	_	_
+10	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+11	цивилизаций	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	Центральной	центральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	Америки	Америка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+17	древнебиблейский	древнебиблейский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	25	punct	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	котором	который	PRON	_	Case=Loc	25	obl	_	_
+22	будущий	будущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	царь	царь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+24	Давид	Давид	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	flat:name	_	_
+25	скрывался	скрываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	acl:relcl	_	_
+26	от	от	ADP	_	_	28	case	_	_
+27	своих	свой	DET	_	Case=Gen|Number=Plur	28	det	_	_
+28	врагов	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	obl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+

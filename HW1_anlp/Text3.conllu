@@ -1,0 +1,650 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ученые впервые воспроизвели в реальности парадокс друга Вигнера.
+1	Ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	впервые	впервые	ADV	_	Degree=Pos	3	advmod	_	_
+3	воспроизвели	воспроизвести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	реальности	реальность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	парадокс	парадокс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+7	друга	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	Вигнера	Вигнер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = В результате физики выяснили, что квантовые явления субъективны: каждый наблюдатель может иметь свои альтернативные факты насчет них, и все они будут правдивы.
+1	В	в	ADP	_	_	2	case	_	_
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+3	физики	физика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	выяснили	выяснить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	что	что	SCONJ	_	_	9	mark	_	_
+7	квантовые	квантовый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	явления	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+9	субъективны	субъективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	4	ccomp	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	9	punct	_	_
+11	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	12	det	_	_
+12	наблюдатель	наблюдателя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+14	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	свои	свой	DET	_	Case=Acc|Number=Plur	17	det	_	_
+16	альтернативные	альтернативный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	факты	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_
+18	насчет	насчет	ADP	_	_	19	case	_	_
+19	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	14	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	и	и	CCONJ	_	_	25	cc	_	_
+22	все	весь	DET	_	Case=Nom|Number=Plur	23	det	_	_
+23	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	25	nsubj	_	_
+24	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
+25	правдивы	правдивый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	13	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 3
+# text = Мы привыкли, что если в макромире происходит какое-то явление, а видеть его могут сразу несколько человек, то впечатления о нем у всех будут практически одинаковые, если дело касается фактической информации, а не эмоциональной.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	привыкли	привыкнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	28	punct	_	_
+4	что	что	SCONJ	_	_	28	mark	_	_
+5	если	если	SCONJ	_	_	8	mark	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	макромире	макромир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+8	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	_
+9	какое-то	какой-то	DET	_	Case=Acc|Gender=Neut|Number=Sing	10	det	_	_
+10	явление	явление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	а	а	CCONJ	_	_	15	cc	_	_
+13	видеть	видеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obj	_	_
+15	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+16	сразу	сразу	ADV	_	Degree=Pos	17	advmod	_	_
+17	несколько	несколько	NUM	_	Case=Nom	18	nummod:gov	_	_
+18	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	8	punct	_	_
+20	то	то	SCONJ	_	_	28	mark	_	_
+21	впечатления	впечатление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	28	nsubj	_	_
+22	о	о	ADP	_	_	23	case	_	_
+23	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
+24	у	у	ADP	_	_	25	case	_	_
+25	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur	28	obl	_	_
+26	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	_
+27	практически	практически	ADV	_	Degree=Pos	28	obl	_	_
+28	одинаковые	одинаковый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	ccomp	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	если	если	SCONJ	_	_	32	mark	_	_
+31	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	_
+32	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	advcl	_	_
+33	фактической	фактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	38	punct	_	_
+36	а	а	CCONJ	_	_	38	cc	_	_
+37	не	не	PART	_	_	38	advmod	_	_
+38	эмоциональной	эмоциональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	conj	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4
+# text = Но в квантовом мире все не так просто: для двух разных наблюдателей один квантовый процесс может иметь совершенно разный результат.
+1	Но	но	CCONJ	_	_	8	cc	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	квантовом	квантовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+5	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	так	так	ADV	_	Degree=Pos	8	obl	_	_
+8	просто	простой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	для	для	ADP	_	_	13	case	_	_
+11	двух	два	NUM	_	Case=Gen	13	nummod	_	_
+12	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	наблюдателей	наблюдатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+14	один	один	NUM	_	Case=Nom|Gender=Masc	16	nummod:gov	_	_
+15	квантовый	квантовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+17	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+18	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+19	совершенно	совершенно	ADV	_	Degree=Pos	20	obl	_	_
+20	разный	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	результат	результат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 5
+# text = И, как оказывается, фактическая информация каждого из них будет верна.
+1	И	и	CCONJ	_	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	как	как	SCONJ	_	_	4	mark	_	_
+4	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	фактическая	фактический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+8	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
+9	из	из	ADP	_	_	10	case	_	_
+10	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	8	nmod	_	_
+11	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+12	верна	верный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 6
+# text = Этот парадокс впервые описал физик Юджин Вигнер.
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	парадокс	парадокс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
+3	впервые	впервые	ADV	_	Degree=Pos	4	advmod	_	_
+4	описал	описать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	физик	физик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	Юджин	Юджин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
+7	Вигнер	Вигнер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = Он немного усложнил мысленный эксперимент Эрвина Шредингера с котом, добавив в него категорию друзей.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+2	немного	немного	ADV	_	Degree=Pos	3	advmod	_	_
+3	усложнил	усложнять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	мысленный	мысленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	эксперимент	эксперимент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	obj	_	_
+6	Эрвина	Эрвин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Шредингера	Шредингер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	котом	кот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	добавив	добавить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	3	advcl	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	obl	_	_
+14	категорию	категория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+15	друзей	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = Согласно парадоксу друга Вигнера, представим, что после завершения опыта с котом Шредингера экспериментатор открывает коробку и видит живого кота.
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	парадоксу	парадокс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+3	друга	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Вигнера	Вигнер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	представим	представить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	16	punct	_	_
+8	что	что	SCONJ	_	_	16	mark	_	_
+9	после	после	ADP	_	_	10	case	_	_
+10	завершения	завершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	_
+11	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	котом	кот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	nmod	_	_
+14	Шредингера	Шредингер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	экспериментатор	экспериментатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+16	открывает	открывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+17	коробку	коробка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	видит	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+20	живого	живой	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	кота	кот	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 9
+# text = Вектор состояния животного в момент открытия коробки переходит в состояние «ядро не распалось, кот жив».
+1	Вектор	вектор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	животного	животное	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+6	открытия	открытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	коробки	коробка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	переходит	переходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+11	«ядро	«ядро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	распалось	распасться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+16	жив»	жив»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 10
+# text = Таким образом, в лаборатории он признан живым.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	_	_
+7	признан	признать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	живым	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\s\s
+
+# sent_id = 11
+# text = Но за пределами лаборатории находится друг.
+1	Но	но	CCONJ	_	_	5	cc	_	_
+2	за	за	ADP	_	_	3	case	_	_
+3	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	_
+4	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 12
+# text = Он еще не знает, жив кот или нет, и признает кота живым только тогда, когда экспериментатор сообщит ему исход эксперимента.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+2	еще	еще	ADV	_	Degree=Pos	4	advmod	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	жив	живой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	obl	_	_
+7	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	или	или	CCONJ	_	_	9	cc	_	_
+9	нет	нет	PART	_	_	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	признает	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	кота	кот	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	живым	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	obl	_	_
+15	только	только	PART	_	_	16	advmod	_	_
+16	тогда	тогда	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	когда	когда	ADV	_	Degree=Pos	20	advmod	_	_
+19	экспериментатор	экспериментатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+20	сообщит	сообщать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
+21	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	20	iobj	_	_
+22	исход	исход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+23	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13
+# text = Но все остальные друзья еще не признали кота живым и признают только тогда, когда им расскажут об этом.
+1	Но	но	CCONJ	_	_	7	cc	_	_
+2	все	весь	DET	_	Case=Nom|Number=Plur	4	det	_	_
+3	остальные	остальной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+5	еще	еще	ADV	_	Degree=Pos	7	advmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	признали	признать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	кота	кот	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	живым	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	признают	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+12	только	только	PART	_	_	13	advmod	_	_
+13	тогда	тогда	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	когда	когда	ADV	_	Degree=Pos	17	advmod	_	_
+16	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	17	iobj	_	_
+17	расскажут	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+18	об	о	ADP	_	_	19	case	_	_
+19	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 14
+# text = Таким образом, кота можно признать полностью живым только тогда, когда все люди во Вселенной узнают результат эксперимента.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	кота	кот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+6	признать	признать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	полностью	полностью	ADV	_	Degree=Pos	8	obl	_	_
+8	живым	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	_
+9	только	только	PART	_	_	10	advmod	_	_
+10	тогда	тогда	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	_
+12	когда	когда	SCONJ	_	_	17	mark	_	_
+13	все	весь	DET	_	Case=Nom|Number=Plur	14	det	_	_
+14	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
+15	во	в	ADP	_	_	16	case	_	_
+16	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+17	узнают	узнать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+18	результат	результат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+19	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 15
+# text = До этого момента кот остается в суперпозиции двух состояний — между жизнью и смертью.
+1	До	до	ADP	_	_	3	case	_	_
+2	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+3	момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
+4	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	суперпозиции	суперпозиция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+8	двух	два	NUM	_	Case=Gen	9	nummod	_	_
+9	состояний	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+10	—	—	PUNCT	_	_	9	punct	_	_
+11	между	между	ADP	_	_	12	case	_	_
+12	жизнью	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	смертью	смерть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 16
+# text = Этот сценарий долго был интересным мысленным экспериментом.
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	сценарий	сценарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	долго	долго	ADV	_	Degree=Pos	7	advmod	_	_
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+5	интересным	интересный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	мысленным	мысленный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	экспериментом	эксперимент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 17
+# text = Но отражает ли он реальность?
+1	Но	но	CCONJ	_	_	2	cc	_	_
+2	отражает	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ли	ли	PART	_	_	2	advmod	_	_
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+5	реальность	реальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 18
+# text = С научной точки зрения прогресс в этом направлении был незначительным вплоть до недавнего времени, когда Часлав Брукнер из Венского университета показал, что при определенных допущениях идея Вигнера может быть использована для формального доказательства того, что измерения в квантовой механике субъективны для наблюдателей.
+1	С	с	ADP	_	_	3	case	_	_
+2	научной	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	parataxis	_	_
+4	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	compound	_	_
+5	прогресс	прогресс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	8	det	_	_
+8	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	_
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	незначительным	незначительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+11	вплоть	вплоть	ADV	_	Degree=Pos	14	case	_	_
+12	до	до	ADP	_	_	11	fixed	_	_
+13	недавнего	недавний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	когда	когда	SCONJ	_	_	22	mark	_	_
+17	Часлав	Часлав	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+18	Брукнер	Брукнер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	flat:name	_	_
+19	из	из	ADP	_	_	21	case	_	_
+20	Венского	Венский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+22	показал	показать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	30	punct	_	_
+24	что	что	SCONJ	_	_	30	mark	_	_
+25	при	при	ADP	_	_	27	case	_	_
+26	определенных	определенный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	27	amod	_	_
+27	допущениях	допущение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	30	obl	_	_
+28	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	nsubj:pass	_	_
+29	Вигнера	Вигнер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	ccomp	_	_
+31	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	32	aux:pass	_	_
+32	использована	использовать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	30	xcomp	_	_
+33	для	для	ADP	_	_	35	case	_	_
+34	формального	формальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	доказательства	доказательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	obl	_	_
+36	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	43	punct	_	_
+38	что	что	SCONJ	_	_	43	mark	_	_
+39	измерения	измерение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	43	nsubj	_	_
+40	в	в	ADP	_	_	42	case	_	_
+41	квантовой	квантовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+42	механике	механика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	43	obl	_	_
+43	субъективны	субъективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	36	acl	_	_
+44	для	для	ADP	_	_	45	case	_	_
+45	наблюдателей	наблюдатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	43	obl	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 19
+# text = Брюкнер предложил способ проверки этого понятия, переведя парадокс друга Вигнера в рамки, впервые установленные физиком Джоном Беллом в 1964 году.
+1	Брюкнер	Брюкнер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	способ	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	проверки	проверка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	6	det	_	_
+6	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	переведя	перевести	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	_	_
+9	парадокс	парадокс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+10	друга	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	Вигнера	Вигнер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	appos	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	рамки	рамка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	впервые	впервые	ADV	_	Degree=Pos	16	advmod	_	_
+16	установленные	установить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	_
+17	физиком	физик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+18	Джоном	Джон	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	appos	_	_
+19	Беллом	Белл	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	flat:name	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	1964	1964	NUM	_	_	22	nummod	_	_
+22	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 20
+# text = Брюкнер рассматривал две пары Вигнеров и их друзей, находящихся в двух отдельных помещениях и проводящих измерения:
+1	Брюкнер	Брюкнер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	рассматривал	рассматривать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	две	два	NUM	_	Case=Nom|Gender=Fem	4	nummod:gov	_	_
+4	пары	пара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
+5	Вигнеров	Вигнеров	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	8	nmod	_	_
+8	друзей	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	находящихся	находиться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	8	acl	_	_
+11	в	в	ADP	_	_	14	case	_	_
+12	двух	два	NUM	_	Case=Loc	14	nummod	_	_
+13	отдельных	отдельный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+14	помещениях	помещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	obl	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	проводящих	проводить	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	conj	_	_
+17	измерения	измерение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	obj	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 21
+# text = Вигнеры находились внутри, а друзья ждали и гадали снаружи.
+1	Вигнеры	Вигнер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	находились	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	внутри	внутри	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	а	а	CCONJ	_	_	7	cc	_	_
+6	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	ждали	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	гадали	гадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+10	снаружи	снаружи	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = Результаты измерений каждой пары можно суммировать, чтобы в итоге решить неравенство Белла.
+1	Результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	obj	_	_
+2	измерений	измерение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+3	каждой	каждый	DET	_	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
+4	пары	пара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+6	суммировать	суммировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+11	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	_
+12	неравенство	неравенство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+13	Белла	Белл	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 23
+# text = Если оно нарушится, наблюдатели могут иметь разные результаты измерений, каждый из которых будет верен.
+1	Если	если	SCONJ	_	_	3	mark	_	_
+2	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj	_	_
+3	нарушится	нарушаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	наблюдатели	наблюдатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	результаты	результат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+10	измерений	измерение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+13	из	из	ADP	_	_	14	case	_	_
+14	которых	который	PRON	_	Case=Gen	12	nmod	_	_
+15	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+16	верен	верный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 24
+# text = Теперь физики впервые провели этот мысленный эксперимент в реальном мире.
+1	Теперь	теперь	ADV	_	Degree=Pos	4	advmod	_	_
+2	физики	физик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+3	впервые	впервые	ADV	_	Degree=Pos	4	advmod	_	_
+4	провели	провести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	7	det	_	_
+6	мысленный	мысленный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	эксперимент	эксперимент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	реальном	реальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 25
+# text = Для этого они использовали квантовый компьютер и три пары запутанных фотонов.
+1	Для	для	ADP	_	_	2	case	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
+4	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	квантовый	квантовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	компьютер	компьютер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	три	три	NUM	_	Case=Nom	9	nummod:gov	_	_
+9	пары	пара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	conj	_	_
+10	запутанных	запутать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	фотонов	фотон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 26
+# text = Первая пара представляет собой монеты, а две другие используются для их «подбрасывания» — измерения поляризации.
+1	Первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	пара	пара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	собой	себя	PRON	_	Case=Ins	3	fixed	_	_
+5	монеты	монета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	а	а	CCONJ	_	_	10	cc	_	_
+8	две	два	NUM	_	Case=Nom|Gender=Fem	9	nummod:gov	_	_
+9	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	nsubj:pass	_	_
+10	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	_
+11	для	для	ADP	_	_	13	case	_	_
+12	их	их	DET	_	_	13	det	_	_
+13	«подбрасывания»	«подбрасывания»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	_
+14	—	—	PUNCT	_	_	13	punct	_	_
+15	измерения	измерение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	поляризации	поляризация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 27
+# text = При этом каждая «монета» находится в своем замкнутом сосуде, где, помимо нее, присутствует «бросающий» фотон.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	каждая	каждый	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	«монета»	«монета»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing	9	det	_	_
+8	замкнутом	замкнутый	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	сосуде	сосуд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	где	где	ADV	_	Degree=Pos	16	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	помимо	помимо	ADP	_	_	14	case	_	_
+14	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	16	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	присутствует	присутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+17	«бросающий»	«бросающий»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	_
+18	фотон	фотон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	appos	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 28
+# text = Снаружи этих двух коробок расположены еще два фотона, которые выполняют функцию «друзей-наблюдателей».
+1	Снаружи	снаружи	ADP	_	_	4	case	_	_
+2	этих	этот	DET	_	Case=Gen|Number=Plur	4	det	_	_
+3	двух	два	NUM	_	Case=Gen	4	nummod	_	_
+4	коробок	коробка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
+5	расположены	расположенный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	_
+7	два	два	NUM	_	Case=Nom|Gender=Masc	8	nummod:gov	_	_
+8	фотона	фотон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	которые	который	PRON	_	Case=Nom	11	nsubj	_	_
+11	выполняют	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+12	функцию	функция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	«друзей	«друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	наблюдателей»	наблюдателей»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	appos	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+
+# sent_id = 29
+# text = Несмотря на использование самой современной квантовой технологии, ученым потребовались недели, чтобы собрать достаточный объем данных из шести фотонов.
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	3	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+4	самой	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	современной	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	квантовой	квантовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	технологии	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	ученым	ученый	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	_
+10	потребовались	требоваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	недели	неделя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	_
+14	собрать	собрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	_
+15	достаточный	достаточный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	объем	объем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+17	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	16	nmod	_	_
+18	из	из	ADP	_	_	20	case	_	_
+19	шести	шесть	NUM	_	Case=Gen	20	nummod	_	_
+20	фотонов	фотон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 30
+# text = В конце концов они показали, что неравенство Белла нарушается, следовательно, каждый из наблюдателей квантового явления может иметь свои альтернативные факты.
+1	В	в	ADP	_	_	5	advmod	_	_
+2	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	fixed	_	_
+3	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	fixed	_	_
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	5	nsubj	_	_
+5	показали	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	что	что	SCONJ	_	_	10	mark	_	_
+8	неравенство	неравенство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+9	Белла	Белл	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	нарушается	нарушаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	19	punct	_	_
+12	следовательно	следовательно	ADV	_	Degree=Pos	19	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	18	det	_	_
+15	из	из	ADP	_	_	16	case	_	_
+16	наблюдателей	наблюдатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+17	квантового	квантовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nsubj	_	_
+19	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+20	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	свои	свой	DET	_	Case=Acc|Number=Plur	23	det	_	_
+22	альтернативные	альтернативный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+23	факты	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	obj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 31
+# text = Это означает, что для квантового мира не может быть «одной правды»: измерения с разных позиций дадут различающиеся результаты и будут одинаково верны.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	для	для	ADP	_	_	7	case	_	_
+6	квантового	квантовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+10	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	«одной	«одный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	правды»	правды»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	_	_
+14	измерения	измерение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	18	nsubj	_	_
+15	с	с	ADP	_	_	17	case	_	_
+16	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	позиций	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
+18	дадут	дать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	_
+19	различающиеся	различаться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	20	amod	_	_
+20	результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	obj	_	_
+21	и	и	CCONJ	_	_	24	cc	_	_
+22	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	_
+23	одинаково	одинаково	ADV	_	Degree=Pos	24	advmod	_	_
+24	верны	верный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	18	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

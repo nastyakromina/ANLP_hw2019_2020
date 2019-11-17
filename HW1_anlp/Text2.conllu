@@ -1,0 +1,2024 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Исследователи обнаружили у девушки удивительную аномалию — отсутствие обонятельных луковиц при сохранном обонянии.
+1	Исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	обнаружили	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	девушки	девушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
+5	удивительную	удивительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	аномалию	аномалия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+7	—	—	PUNCT	_	_	8	punct	_	_
+8	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	parataxis	_	_
+9	обонятельных	обонятельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	луковиц	луковица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+11	при	при	ADP	_	_	13	case	_	_
+12	сохранном	сохрать	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	обонянии	обоняние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Попробуем разобраться, почему это возможно и как мозг справляется с необходимостью «заменять» проблемные участки.
+1	Попробуем	пробовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	разобраться	разобраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	xcomp	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	почему	почему	ADV	_	Degree=Pos	6	advmod	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	ccomp	_	_
+7	и	и	PART	_	_	10	advmod	_	_
+8	как	как	ADV	_	Degree=Pos	10	advmod	_	_
+9	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	справляется	справляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	csubj	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+13	«заменять»	«заменять»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	проблемные	проблемный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	15	amod	_	_
+15	участки	участок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Мы привыкли думать, что «нервные клетки не восстанавливаются».
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	привыкли	привыкнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	что	что	SCONJ	_	_	9	mark	_	_
+6	«нервные	«нервный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	клетки	клетка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	восстанавливаются»	восстанавливаются»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4
+# text = Конечно, многие слышали о компенсаторных возможностях мозга, постинсультной реабилитации, а может, даже о том, что, на самом деле, новые нейроны появляются у нас всю жизнь.
+1	Конечно	конечно	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	многие	много	NUM	_	_	4	nsubj	_	_
+4	слышали	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	о	о	ADP	_	_	7	case	_	_
+6	компенсаторных	компенсаторный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	возможностях	возможность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	_
+8	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	постинсультной	постинсультный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	реабилитации	реабилитация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	а	а	CCONJ	_	_	18	cc	_	_
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	parataxis	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	даже	даже	PART	_	_	18	advmod	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	28	punct	_	_
+20	что	что	SCONJ	_	_	28	mark	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	на	на	ADP	_	_	24	case	_	_
+23	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	parataxis	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	27	amod	_	_
+27	нейроны	нейрон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	_
+28	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	acl	_	_
+29	у	у	ADP	_	_	30	case	_	_
+30	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	28	obl	_	_
+31	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	32	det	_	_
+32	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obl	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 5
+# text = Но человеческий мозг — шкатулка с такими сюрпризами, которые иногда невозможно себе представить, а можно только увидеть и искать им объяснение.
+1	Но	но	CCONJ	_	_	3	cc	_	_
+2	человеческий	человеческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	—	—	PUNCT	_	_	5	punct	_	_
+5	шкатулка	шкатулка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+6	с	с	ADP	_	_	8	case	_	_
+7	такими	такой	DET	_	Case=Ins|Number=Plur	8	det	_	_
+8	сюрпризами	сюрприз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	которые	который	PRON	_	Case=Nom	12	nsubj	_	_
+11	иногда	иногда	ADV	_	Degree=Pos	12	obl	_	_
+12	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	acl:relcl	_	_
+13	себе	себя	PRON	_	Case=Dat	12	iobj	_	_
+14	представить	представить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	csubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	а	а	CCONJ	_	_	17	cc	_	_
+17	можно	можно	ADV	_	Degree=Pos	14	conj	_	_
+18	только	только	PART	_	_	19	advmod	_	_
+19	увидеть	видеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	csubj	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	conj	_	_
+22	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	21	iobj	_	_
+23	объяснение	объяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = В статье израильских ученых из Института Вейцмана, недавно опубликованной в журнале Neuron, рассказывается об исследовании своего рода научной загадки.
+1	В	в	ADP	_	_	2	case	_	_
+2	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	_
+3	израильских	израильский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	из	из	ADP	_	_	6	case	_	_
+6	Института	Институт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+7	Вейцмана	Вейцман	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	недавно	недавно	ADV	_	Degree=Pos	10	advmod	_	_
+10	опубликованной	опубликовать	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	журнале	журнал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+13	Neuron	Neuron	PROPN	_	Foreign=Yes	12	flat:foreign	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	10	punct	_	_
+15	рассказывается	рассказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+16	об	о	ADP	_	_	17	case	_	_
+17	исследовании	исследование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	_
+18	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing	19	det	_	_
+19	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+20	научной	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	загадки	загадка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 7
+# text = Авторы работы вначале изучали совершенно другую область: они хотели узнать, как обоняние участвует в межполовых отношениях и какова его роль в поиске партнера.
+1	Авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	вначале	вначале	ADV	_	Degree=Pos	4	advmod	_	_
+4	изучали	изучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	совершенно	совершенно	ADV	_	Degree=Pos	6	obl	_	_
+6	другую	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	область	область	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	4	punct	_	_
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	10	nsubj	_	_
+10	хотели	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+11	узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	как	как	ADV	_	Degree=Pos	15	advmod	_	_
+14	обоняние	обоняние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+15	участвует	участвовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	межполовых	межполовый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	отношениях	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	15	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	какова	каков	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	15	conj	_	_
+21	его	его	DET	_	_	22	det	_	_
+22	роль	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	поиске	поиск	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	nmod	_	_
+25	партнера	партнер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = Мозг каждого участника эксперимента сканировали с помощью МРТ.
+1	Мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+3	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	сканировали	сканировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	с	с	ADP	_	_	8	case	_	_
+7	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	fixed	_	_
+8	МРТ	мрт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 9
+# text = Внезапно на одном из снимков исследователи не обнаружили обонятельных луковиц.
+1	Внезапно	внезапно	ADV	_	Degree=Pos	3	advmod	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	одном	один	NUM	_	Case=Loc|Gender=Masc	8	nummod	_	_
+4	из	из	ADP	_	_	5	case	_	_
+5	снимков	снимок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	обнаружили	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	обонятельных	обонятельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	луковиц	луковица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 10
+# text = Но поразительно было не это: в мире каждый десятитысячный человек страдает аносмией.
+1	Но	но	CCONJ	_	_	2	cc	_	_
+2	поразительно	поразительно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	2	punct	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+9	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	11	det	_	_
+10	десятитысячный	десятитысячный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	страдает	страдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+13	аносмией	аносмия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 11
+# text = Однако люди с аносмией напрочь или практически полностью лишены обоняния.
+1	Однако	однако	ADV	_	Degree=Pos	9	advmod	_	_
+2	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj:pass	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	аносмией	аносмия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	_
+5	напрочь	напрочь	ADV	_	Degree=Pos	9	advmod	_	_
+6	или	или	CCONJ	_	_	8	cc	_	_
+7	практически	практически	ADV	_	Degree=Pos	8	advmod	_	_
+8	полностью	полностью	ADV	_	Degree=Pos	5	conj	_	_
+9	лишены	лишить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	обоняния	обоняние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj:pass	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 12
+# text = А вот 29-летняя участница эксперимента, данные которой поставили ученых в тупик, оказалась отличным «нюхачом».
+1	А	а	CCONJ	_	_	14	cc	_	_
+2	вот	вот	PART	_	_	4	advmod	_	_
+3	29-летняя	29-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	участница	участница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+5	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	данные	данные	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	9	nsubj	_	_
+8	которой	который	PRON	_	Case=Gen	7	nmod	_	_
+9	поставили	ставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+10	ученых	ученый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	тупик	тупик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	4	punct	_	_
+14	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+15	отличным	отличный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	16	amod	_	_
+16	«нюхачом»	«нюхачом»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 13
+# text = Она прошла все тесты, показала обычную картину активности нужных участков коры мозга и вообще замечательно жила, нисколько не подозревая о том, что ее обонятельная система хоть в чем-то аномальна.
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
+2	прошла	пройти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	все	весь	DET	_	Case=Acc|Number=Plur	4	det	_	_
+4	тесты	тест	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	показала	показать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	обычную	обычный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	картину	картина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	активности	активность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	нужных	нужный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+12	коры	кора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	17	cc	_	_
+15	вообще	вообще	ADV	_	Degree=Pos	17	advmod	_	_
+16	замечательно	замечательно	ADV	_	Degree=Pos	17	advmod	_	_
+17	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	нисколько	нисколько	ADV	_	Degree=Pos	20	advmod	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	подозревая	подозревать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	17	advcl	_	_
+22	о	о	ADP	_	_	23	case	_	_
+23	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	32	punct	_	_
+25	что	что	SCONJ	_	_	32	mark	_	_
+26	ее	ее	DET	_	_	28	det	_	_
+27	обонятельная	обонятельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	32	nsubj	_	_
+29	хоть	хоть	ADV	_	Degree=Pos	32	obl	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	чем-то	что-то	PRON	_	Case=Loc	32	obl	_	_
+32	аномальна	аномальный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	23	acl	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 14
+# text = Авторы на всякий случай обратились к коллегам-инженерам из Мельбурнского университета.
+1	Авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	на	на	ADP	_	_	4	case	_	_
+3	всякий	всякий	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
+4	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+5	обратились	обратиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	коллегам	коллега	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	инженерам	инженер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	parataxis	_	_
+10	из	из	ADP	_	_	12	case	_	_
+11	Мельбурнского	Мельбурнский	PROPN	_	_	12	amod	_	_
+12	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 15
+# text = Они предположили, что виной всему мог быть дефект или неточность МРТ.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	предположили	предположить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	что	что	SCONJ	_	_	7	mark	_	_
+5	виной	вина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
+6	всему	все	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	_
+7	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	cop	_	_
+9	дефект	дефект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+10	или	или	CCONJ	_	_	11	cc	_	_
+11	неточность	неточность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	_
+12	МРТ	мрт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 16
+# text = Однако и новые способы уверенно показали: луковиц нет.
+1	Однако	однако	ADV	_	Degree=Pos	6	advmod	_	_
+2	и	и	PART	_	_	3	advmod	_	_
+3	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+5	уверенно	уверенно	ADV	_	Degree=Pos	6	advmod	_	_
+6	показали	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	луковиц	луковица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nsubj	_	_
+9	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 17
+# text = Обонятельные луковицы — обязательная (как до сих пор считалось) часть нашей обонятельной системы головного мозга.
+1	Обонятельные	Обонятельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	луковицы	луковица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	—	—	PUNCT	_	_	2	punct	_	_
+4	обязательная	обязательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+5	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+6	как	как	SCONJ	_	_	10	mark	_	_
+7	до	до	ADP	_	_	10	advmod	_	_
+8	сих	сей	DET	_	Case=Gen|Number=Plur	7	fixed	_	_
+9	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	fixed	_	_
+10	считалось	считать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	4	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+13	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing	15	det	_	_
+14	обонятельной	обонятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+16	головного	головной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 18
+# text = Это парный орган: две такие состоящие из нейронов луковицы расположены в районе внутричерепных полостей носа.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	парный	парный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	орган	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	две	два	NUM	_	Case=Nom|Gender=Fem	6	nummod:gov	_	_
+6	такие	такой	DET	_	Case=Nom|Number=Plur	7	det	_	_
+7	состоящие	состоять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	nsubj	_	_
+8	из	из	ADP	_	_	9	case	_	_
+9	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+10	луковицы	луковица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	расположены	расположенный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	parataxis	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+14	внутричерепных	внутричерепный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	полостей	полость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	носа	нос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 19
+# text = Хеморецепторы, находящиеся в носу, улавливают молекулы летучих веществ, отправляют сигнал через обонятельный нерв в луковицы, где он обрабатывается, а после передается в подкорковые центры и, наконец, в височный отдел, где находится корковый центр обоняния мозга.
+1	Хеморецепторы	Хеморецептор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	находящиеся	находиться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	1	acl	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	носу	нос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	улавливают	улавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	молекулы	молекула	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	obl	_	_
+9	летучих	летучий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	веществ	вещество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	отправляют	отправлявать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+13	сигнал	сигнал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	через	через	ADP	_	_	16	case	_	_
+15	обонятельный	обонятельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	нерв	нерв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	луковицы	луковица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	где	где	ADV	_	Degree=Pos	22	advmod	_	_
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	nsubj:pass	_	_
+22	обрабатывается	обрабатывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	acl:relcl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	а	а	CCONJ	_	_	26	cc	_	_
+25	после	после	ADP	_	_	26	case	_	_
+26	передается	передавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	подкорковые	подкорковый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	29	amod	_	_
+29	центры	центр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	26	obl	_	_
+30	и	и	CCONJ	_	_	36	cc	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	36	punct	_	_
+32	наконец	наконец	ADV	_	Degree=Pos	36	parataxis	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	в	в	ADP	_	_	36	case	_	_
+35	височный	височный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	отдел	отдел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	conj	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	где	где	ADV	_	Degree=Pos	39	advmod	_	_
+39	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	36	acl:relcl	_	_
+40	корковый	корковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+41	центр	центр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	_
+42	обоняния	обоняние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+43	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	42	nmod	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 20
+# text = Отсутствие луковиц фактически перерубает этот многоступенчатый путь.
+1	Отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	луковиц	луковица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	фактически	фактически	ADV	_	Degree=Pos	4	advmod	_	_
+4	перерубает	перерубать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	7	det	_	_
+6	многоступенчатый	многоступенчатый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	путь	путь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 21
+# text = Однако факт налицо: девушка есть, обоняние есть, луковиц — нет.
+1	Однако	однако	ADV	_	Degree=Pos	3	advmod	_	_
+2	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	налицо	налицо	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	обоняние	обоняние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	луковиц	луковица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nsubj	_	_
+12	—	—	PUNCT	_	_	13	punct	_	_
+13	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 22
+# text = Чтобы проверить, уникальный ли это случай, ученые обследовали еще несколько женщин того же возраста, как дополнительный фактор определив леворукость («нулевая пациентка» была левшой).
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	2	mark	_	_
+2	проверить	проверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	уникальный	уникальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+5	ли	ли	PART	_	_	4	advmod	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	obl	_	_
+7	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	обследовали	обследовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	еще	еще	ADV	_	Degree=Pos	12	advmod	_	_
+12	несколько	несколько	NUM	_	Case=Nom	13	nummod:gov	_	_
+13	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	10	obl	_	_
+14	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	16	det	_	_
+15	же	же	PART	_	_	14	advmod	_	_
+16	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	как	как	SCONJ	_	_	20	mark	_	_
+19	дополнительный	дополнительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	фактор	фактор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	advcl	_	_
+21	определив	определить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	20	orphan	_	_
+22	леворукость	леворукость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+23	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	«нулевая	«нулевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	пациентка»	пациентка»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	parataxis	_	_
+26	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	_
+27	левшой	левшой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 23
+# text = На девятой попытке они нашли еще одну такую же девушку.
+1	На	на	ADP	_	_	3	case	_	_
+2	девятой	девятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	попытке	попытка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	5	nsubj	_	_
+5	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	_
+7	одну	один	NUM	_	Case=Acc|Gender=Fem	10	nummod:gov	_	_
+8	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing	10	det	_	_
+9	же	же	PART	_	_	8	advmod	_	_
+10	девушку	девушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 24
+# text = Впоследствии, обследовав еще 1113 человек, ученые обнаружили трех женщин с аналогичной аномалией.
+1	Впоследствии	впоследствии	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	обследовав	обследовать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	9	advcl	_	_
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	_
+5	1113	1113	NUM	_	_	6	nummod	_	_
+6	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	обнаружили	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	трех	три	NUM	_	Animacy=Anim|Case=Acc	11	nummod:gov	_	_
+11	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	_
+12	с	с	ADP	_	_	14	case	_	_
+13	аналогичной	аналогичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	аномалией	аномалия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 25
+# text = Ни один из полутысячи обследованных мужчин при этом такой проблемы не имел.
+1	Ни	ни	PART	_	_	2	advmod	_	_
+2	один	один	NUM	_	Case=Nom|Gender=Masc	12	nsubj	_	_
+3	из	из	ADP	_	_	4	case	_	_
+4	полутысячи	полутысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	обследованных	обследовать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+9	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	10	det	_	_
+10	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	имел	иметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 26
+# text = Возможно, каким-то образом такая суперспособность связана с полом, возможно, учитывая ее редкость, на большей выборке обнаружится хотя бы один такой мужчина.
+1	Возможно	возможно	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing	4	det	_	_
+4	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+5	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	6	det	_	_
+6	суперспособность	суперспособность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+7	связана	связать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	полом	пол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	20	punct	_	_
+11	возможно	возможно	ADV	_	Degree=Pos	20	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	20	advcl	_	_
+14	ее	ее	DET	_	_	15	det	_	_
+15	редкость	редкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	13	punct	_	_
+17	на	на	ADP	_	_	19	case	_	_
+18	большей	больший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	выборке	выборка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	_
+20	обнаружится	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	conj	_	_
+21	хотя	хотя	PART	_	_	23	advmod	_	_
+22	бы	бы	PART	_	_	21	fixed	_	_
+23	один	один	NUM	_	Case=Nom|Gender=Masc	25	nummod:gov	_	_
+24	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	25	det	_	_
+25	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 27
+# text = Как вообще такое может быть?
+1	Как	как	SCONJ	_	_	4	mark	_	_
+2	вообще	вообще	ADV	_	Degree=Pos	4	advmod	_	_
+3	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 28
+# text = Этот случай невероятен, ученые в шоке разводят руками — или нет?
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	невероятен	невероятный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	шоке	шок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+8	разводят	разводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+9	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	8	obl	_	_
+10	—	—	PUNCT	_	_	12	punct	_	_
+11	или	или	CCONJ	_	_	12	cc	_	_
+12	нет	нет	PART	_	_	3	conj	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 29
+# text = Железного объяснения механизму феномена, как и причин его появления, исследователи пока не нашли, только зафиксировали его существование.
+1	Железного	железный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	объяснения	объяснение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+3	механизму	механизм	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
+4	феномена	феномен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	как	как	SCONJ	_	_	8	mark	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	obl	_	_
+9	его	его	DET	_	_	10	det	_	_
+10	появления	появление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+13	пока	пока	ADV	_	Degree=Pos	15	advmod	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	только	только	PART	_	_	18	advmod	_	_
+18	зафиксировали	фиксировать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
+19	его	его	DET	_	_	20	det	_	_
+20	существование	существование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 30
+# text = Но наиболее вероятный вариант — нейропластичность, которая способна буквально творить чудеса.
+1	Но	но	CCONJ	_	_	4	cc	_	_
+2	наиболее	наиболее	ADV	_	Degree=Pos	3	obl	_	_
+3	вероятный	вероятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	—	—	PUNCT	_	_	6	punct	_	_
+6	нейропластичность	нейропластичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	которая	который	PRON	_	Case=Nom	9	nsubj	_	_
+9	способна	способный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	6	acl:relcl	_	_
+10	буквально	буквально	ADV	_	Degree=Pos	11	advmod	_	_
+11	творить	творить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+12	чудеса	чудо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 31
+# text = В течение долгого времени предполагалось, что мозг человека формируется внутриутробно, заканчивает свое развитие в детстве, а во взрослом состоянии остается структурно неизменным.
+1	В	в	ADP	_	_	4	case	_	_
+2	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	долгого	долгий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+5	предполагалось	предполагаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	что	что	SCONJ	_	_	10	mark	_	_
+8	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	формируется	формироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	ccomp	_	_
+11	внутриутробно	внутриутробно	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	заканчивает	заканчивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+14	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	15	det	_	_
+15	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	а	а	CCONJ	_	_	23	cc	_	_
+20	во	в	ADP	_	_	22	case	_	_
+21	взрослом	взросло	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+23	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	_
+24	структурно	структурно	ADV	_	Degree=Pos	25	obl	_	_
+25	неизменным	неизменный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 32
+# text = Современные исследования показали, что это не так.
+1	Современные	современный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	исследования	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	показали	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	что	что	SCONJ	_	_	8	mark	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	так	так	ADV	_	Degree=Pos	3	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 33
+# text = На протяжении всей жизни мозг остается изменчивым и пластичным.
+1	На	на	ADP	_	_	2	case	_	_
+2	протяжении	протяжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	всей	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
+4	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	изменчивым	изменчивый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	пластичным	пластичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 34
+# text = Нейропластичность, то есть возможность мозга человека меняться под воздействием нового опыта, включает не только способность чинить нейронные связи, пострадавшие при повреждении, образовывать новые либо усиливать существующие при обучении.
+1	Нейропластичность	Нейропластичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	mark	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	fixed	_	_
+5	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+6	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	меняться	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	obl	_	_
+9	под	под	ADP	_	_	10	case	_	_
+10	воздействием	воздействие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	obl	_	_
+11	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	1	punct	_	_
+14	включает	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	только	только	PART	_	_	17	advmod	_	_
+17	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+18	чинить	чинить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	obl	_	_
+19	нейронные	нейронный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	_
+20	связи	связь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	пострадавшие	страдать	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	conj	_	_
+23	при	при	ADP	_	_	24	case	_	_
+24	повреждении	повреждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	образовывать	образовывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	conj	_	_
+27	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	26	obj	_	_
+28	либо	либо	CCONJ	_	_	29	cc	_	_
+29	усиливать	усиливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	27	conj	_	_
+30	существующие	существовать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	29	xcomp	_	_
+31	при	при	ADP	_	_	32	case	_	_
+32	обучении	обучение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+
+# sent_id = 35
+# text = Исследования последних лет показывают, что мозг способен вырастить значительные объемы новых нейронов в различных своих отделах, а при невозможности полностью заместить утраченное может «переназначить» одну группу нейронов выполнять функции другой.
+1	Исследования	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+2	последних	последний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	показывают	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	что	что	SCONJ	_	_	8	mark	_	_
+7	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	способен	способный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	ccomp	_	_
+9	вырастить	вырастить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	значительные	значительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	объемы	объем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+12	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+14	в	в	ADP	_	_	17	case	_	_
+15	различных	различный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	amod	_	_
+16	своих	свой	DET	_	Case=Loc|Number=Plur	17	det	_	_
+17	отделах	отдел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	а	а	CCONJ	_	_	23	cc	_	_
+20	при	при	ADP	_	_	21	case	_	_
+21	невозможности	невозможность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	obl	_	_
+22	полностью	полностью	ADV	_	Degree=Pos	23	advmod	_	_
+23	заместить	заместить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	conj	_	_
+24	утраченное	утрачеть	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	xcomp	_	_
+25	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	parataxis	_	_
+26	«переназначить»	«переназначить»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	_
+27	одну	один	NUM	_	Case=Acc|Gender=Fem	26	nummod:gov	_	_
+28	группу	группа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	obj	_	_
+29	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
+30	выполнять	выполнять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	_
+31	функции	функция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	32	obj	_	_
+32	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	nsubj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 36
+# text = Причем примеры возможностей таких «заместителей» иногда поражают воображение.
+1	Причем	причем	CCONJ	_	_	7	cc	_	_
+2	примеры	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+3	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+4	таких	такой	DET	_	Case=Gen|Number=Plur	5	det	_	_
+5	«заместителей»	«заместителей»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	иногда	иногда	ADV	_	Degree=Pos	7	advmod	_	_
+7	поражают	поражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	воображение	воображение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 37
+# text = Эта фраза была невероятно популярна лет 10-20 назад, во времена расцвета различных псевдонаучных техник, обещавших раскрыть интеллектуальные способности каждого и вырастить гения из любого менеджера по раскладыванию пасьянса на рабочем месте.
+1	Эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	фраза	фраза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+4	невероятно	невероятно	ADV	_	Degree=Pos	5	advmod	_	_
+5	популярна	популярный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+6	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+7	10	10	NUM	_	_	6	nummod	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	20	20	NUM	_	_	7	nummod	_	_
+10	назад	назад	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	во	в	ADP	_	_	13	case	_	_
+13	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+14	расцвета	расцвет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+16	псевдонаучных	псевдонаучный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	техник	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	обещавших	обещать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	17	acl	_	_
+20	раскрыть	раскрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	интеллектуальные	интеллектуальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	amod	_	_
+22	способности	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	20	obj	_	_
+23	каждого	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	22	det	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	вырастить	вырастить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	conj	_	_
+26	гения	гений	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	25	obj	_	_
+27	из	из	ADP	_	_	29	case	_	_
+28	любого	любой	DET	_	Case=Gen|Gender=Masc|Number=Sing	29	det	_	_
+29	менеджера	менеджер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+30	по	по	ADP	_	_	31	case	_	_
+31	раскладыванию	раскладывание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	nmod	_	_
+32	пасьянса	пасьянс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+33	на	на	ADP	_	_	35	case	_	_
+34	рабочем	рабочий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 38
+# text = Однако наука знает случаи, в которых это выражение близко к истине.
+1	Однако	однако	ADV	_	Degree=Pos	3	advmod	_	_
+2	наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	случаи	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	которых	который	PRON	_	Case=Loc	9	nmod	_	_
+8	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	9	det	_	_
+9	выражение	выражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	acl:relcl	_	_
+10	близко	близкий	ADV	_	Degree=Pos	9	advmod	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	истине	истина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 39
+# text = Иной раз — прямо-таки «не какой-нибудь факт, а чистая правда»!
+1	Иной	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+3	—	—	PUNCT	_	_	7	punct	_	_
+4	прямо-таки	прямо-таки	PART	_	_	5	advmod	_	_
+5	«не	«не	ADV	_	Degree=Pos	7	obl	_	_
+6	какой-нибудь	какой-нибудь	DET	_	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
+7	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	а	а	CCONJ	_	_	11	cc	_	_
+10	чистая	чистый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	правда»	правда»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = Наиболее часто встречающиеся примеры — постинсультная реабилитация.
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	advmod	_	_
+2	часто	часто	ADV	_	Degree=Pos	3	advmod	_	_
+3	встречающиеся	встречаться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	4	acl	_	_
+4	примеры	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+5	—	—	PUNCT	_	_	4	punct	_	_
+6	постинсультная	постинсультный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	реабилитация	реабилитация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 41
+# text = Дети, перенесшие инсульт, не отличались по своим умственным способностям от сверстников, а функции пострадавших участков левого полушария, которые отвечают за речь, полноценно смогли выполнять симметричные участки правого.
+1	Дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	перенесшие	перенеснуть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+4	инсульт	инсульт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	отличались	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	по	по	ADP	_	_	11	case	_	_
+9	своим	свой	DET	_	Case=Dat|Number=Plur	11	det	_	_
+10	умственным	умственный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	11	amod	_	_
+11	способностям	способность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	obl	_	_
+12	от	от	ADP	_	_	13	case	_	_
+13	сверстников	сверстник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	28	punct	_	_
+15	а	а	CCONJ	_	_	28	cc	_	_
+16	функции	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	28	nsubj	_	_
+17	пострадавших	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	левого	левый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	полушария	полушарие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	которые	который	PRON	_	Case=Nom	23	nsubj	_	_
+23	отвечают	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+24	за	за	ADP	_	_	25	case	_	_
+25	речь	речь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	полноценно	полноценно	ADV	_	Degree=Pos	28	advmod	_	_
+28	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+29	выполнять	выполнять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	xcomp	_	_
+30	симметричные	симметричный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	участки	участок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	29	obj	_	_
+32	правого	правый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 42
+# text = Но бывают и более яркие примеры.
+1	Но	но	CCONJ	_	_	2	cc	_	_
+2	бывают	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	более	более	ADV	_	Degree=Cmp	5	obl	_	_
+5	яркие	яркий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	примеры	пример	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 43
+# text = Так, летом врачи в Подмосковье обнаружили мужчину без левого полушария головного мозга.
+1	Так	так	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+4	врачи	врач	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Подмосковье	Подмосковье	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+7	обнаружили	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	мужчину	мужчина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	без	без	ADP	_	_	11	case	_	_
+10	левого	левый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	полушария	полушарие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+12	головного	головной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 44
+# text = Совсем.
+1	Совсем	совсем	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = На снимках МРТ можно видеть пустое пространство на этом месте.
+1	На	на	ADP	_	_	2	case	_	_
+2	снимках	снимок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	_
+3	МРТ	мрт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	видеть	видеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	пустое	пустой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	пространство	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	10	det	_	_
+10	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 46
+# text = По словам медиков, к которым пациент поступил с ишемией, он прожил так всю жизнь, до 60 лет, но не подозревал о своей особенности.
+1	По	по	ADP	_	_	2	case	_	_
+2	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	8	parataxis	_	_
+3	медиков	медик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	которым	который	PRON	_	Case=Dat	8	obl	_	_
+7	пациент	пациент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	ишемией	ишемия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+13	прожил	прожить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+14	так	так	ADV	_	Degree=Pos	16	obl	_	_
+15	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	16	det	_	_
+16	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	до	до	ADP	_	_	20	case	_	_
+19	60	60	NUM	_	_	20	nummod	_	_
+20	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	но	но	CCONJ	_	_	24	cc	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	подозревал	подозревать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+25	о	о	ADP	_	_	27	case	_	_
+26	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	27	det	_	_
+27	особенности	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 47
+# text = Развитие пошло не так еще внутриутробно, однако остальные отделы мозга смогли компенсировать недостающую часть.
+1	Развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	пошло	пойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	так	так	ADV	_	Degree=Pos	6	advmod	_	_
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	_
+6	внутриутробно	внутриутробно	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	однако	однако	ADV	_	Degree=Pos	12	advmod	_	_
+9	остальные	остальной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	отделы	отдел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+11	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+13	компенсировать	компенсировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	недостающую	недостающий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 48
+# text = Мужчина не демонстрировал никаких проблем ни с моторикой, ни со зрением или психикой; более того, вполне успешно учился и много лет работал инженером.
+1	Мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	демонстрировал	демонстрировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	никаких	никакой	DET	_	Case=Gen|Number=Plur	5	det	_	_
+5	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	_
+6	ни	ни	PART	_	_	8	cc	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	моторикой	моторика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	ни	ни	CCONJ	_	_	12	cc	_	_
+11	со	с	ADP	_	_	12	case	_	_
+12	зрением	зрение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	conj	_	_
+13	или	или	CCONJ	_	_	14	cc	_	_
+14	психикой	психика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+15	;	;	PUNCT	_	_	3	punct	_	_
+16	более	более	ADV	_	Degree=Cmp	17	nummod:gov	_	_
+17	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	вполне	вполне	ADV	_	Degree=Pos	20	advmod	_	_
+20	успешно	успешно	ADV	_	Degree=Pos	21	advmod	_	_
+21	учился	учиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	_
+22	и	и	CCONJ	_	_	25	cc	_	_
+23	много	много	ADV	_	Degree=Pos	24	nummod:gov	_	_
+24	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	obl	_	_
+25	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+26	инженером	инженер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 49
+# text = Но минус одно полушарие — не предел для нейропластичности.
+1	Но	но	CCONJ	_	_	7	cc	_	_
+2	минус	минус	PART	_	_	7	nmod	_	_
+3	одно	один	NUM	_	Case=Nom|Gender=Neut	4	nummod:gov	_	_
+4	полушарие	полушарие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	—	—	PUNCT	_	_	4	punct	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	предел	предел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	нейропластичности	нейропластичность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 50
+# text = Это доказывает француз, у которого в 2007 году диагностировали разрушение 90% коры головного мозга.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	obj	_	_
+2	доказывает	доказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	француз	француз	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	у	у	ADP	_	_	6	case	_	_
+6	которого	который	PRON	_	Case=Gen	10	obl	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	2007	2007	NUM	_	_	9	nummod	_	_
+9	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+10	диагностировали	диагностировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+11	разрушение	разрушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	90	90	NUM	_	_	13	nummod	_	SpaceAfter=No
+13	%	%	SYM	_	_	11	nmod	_	_
+14	коры	кора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	головного	головной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 51
+# text = Мужчина с детства страдал от гидроцефалии, которая и привела к таким разрушительным последствиям.
+1	Мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+4	страдал	страдать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	гидроцефалии	гидроцефалия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	которая	который	PRON	_	Case=Nom	10	nsubj	_	_
+9	и	и	PART	_	_	10	advmod	_	_
+10	привела	привести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	к	к	ADP	_	_	14	case	_	_
+12	таким	такой	DET	_	Case=Dat|Number=Plur	14	det	_	_
+13	разрушительным	разрушительный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	14	amod	_	_
+14	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 52
+# text = Однако о происходящих изменениях ни он сам, ни его родные не знали, и пациента к 44 годам беспокоила только небольшая слабость в одной из конечностей.
+1	Однако	однако	ADV	_	Degree=Pos	20	advmod	_	_
+2	о	о	ADP	_	_	4	case	_	_
+3	происходящих	происходить	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+4	изменениях	изменение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	20	obl	_	_
+5	ни	ни	CCONJ	_	_	6	cc	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
+7	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	ни	ни	CCONJ	_	_	13	cc	_	_
+10	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
+11	родные	родной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	nsubj	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	пациента	пациент	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	_
+17	к	к	ADP	_	_	19	case	_	_
+18	44	44	NUM	_	_	19	nummod	_	_
+19	годам	год	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	16	nmod	_	_
+20	беспокоила	беспокоить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+21	только	только	PART	_	_	22	advmod	_	_
+22	небольшая	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	слабость	слабость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	одной	один	NUM	_	Case=Loc|Gender=Fem	23	nummod	_	_
+26	из	из	ADP	_	_	27	case	_	_
+27	конечностей	конечность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 53
+# text = Даже его IQ не был снижен до уровня умственной отсталости, несмотря на то, что вся высшая психологическая деятельность человека связана с функционированием коры.
+1	Даже	даже	PART	_	_	2	advmod	_	_
+2	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+3	IQ	IQ	PROPN	_	Foreign=Yes	6	nsubj:pass	_	_
+4	не	не	PART	_	_	6	advmod	_	_
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	снижен	снизить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	до	до	ADP	_	_	8	case	_	_
+8	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+9	умственной	умственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	отсталости	отсталость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	несмотря	несмотря	ADV	_	Polarity=Neg	14	case	_	_
+13	на	на	ADP	_	_	12	fixed	_	_
+14	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	что	что	SCONJ	_	_	22	mark	_	_
+17	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	20	det	_	_
+18	высшая	высший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+19	психологическая	психологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	nsubj:pass	_	_
+21	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	связана	связать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	acl	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	функционированием	функционирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	obl	_	_
+25	коры	кора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 54
+# text = Тем не менее обычный госслужащий (да, он вполне справлялся со своими обязанностями) успешно обошелся остатками коры, стволом мозга и мозжечком.
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	обычный	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	госслужащий	госслужащий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+6	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+7	да	да	PART	_	_	11	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+10	вполне	вполне	ADV	_	Degree=Pos	11	advmod	_	_
+11	справлялся	справляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	_
+12	со	с	ADP	_	_	14	case	_	_
+13	своими	свой	DET	_	Case=Ins|Number=Plur	14	det	_	_
+14	обязанностями	обязанность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	11	punct	_	_
+16	успешно	успешно	ADV	_	Degree=Pos	17	advmod	_	_
+17	обошелся	обойтись	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+18	остатками	остатки	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+19	коры	кора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	стволом	ствол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	conj	_	_
+22	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	мозжечком	мозжечок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 55
+# text = Совладать мозг способен не только с потерей участков коры.
+1	Совладать	совладать	NUM	_	Case=Nom	2	nummod:gov	_	_
+2	мозг	мозга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	способен	способный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	только	только	PART	_	_	7	advmod	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	потерей	потеря	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
+8	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	коры	кора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 56
+# text = Так, китаянка, жившая нормальной жизнью, родившая двух детей и испытывавшая только небольшие моторные нарушения, стала ценным пациентом для ученых.
+1	Так	так	ADV	_	Degree=Pos	19	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	китаянка	китаянка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	жившая	жить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	_
+6	нормальной	нормальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	жизнью	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	родившая	родить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	nsubj	_	_
+10	двух	два	NUM	_	Case=Gen	11	nummod	_	_
+11	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	испытывавшая	испытывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	_
+14	только	только	PART	_	_	15	advmod	_	_
+15	небольшие	небольшой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+16	моторные	моторный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	13	punct	_	_
+19	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+20	ценным	ценный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	пациентом	пациент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
+22	для	для	ADP	_	_	23	case	_	_
+23	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 57
+# text = Оказалось, всю жизнь она прожила вообще без мозжечка.
+1	Оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
+4	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+6	прожила	жить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	вообще	вообще	ADV	_	Degree=Pos	9	obl	_	_
+8	без	без	ADP	_	_	9	case	_	_
+9	мозжечка	мозжечок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 58
+# text = Все эти случаи показывают, что хотя травмы мозга или аномалии в его развитии опасны и часто приводят к печальным последствиям, незаменимых отделов мозга нет.
+1	Все	весь	DET	_	Case=Nom|Number=Plur	3	det	_	_
+2	эти	этот	DET	_	Case=Nom|Number=Plur	3	det	_	_
+3	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	показывают	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	26	punct	_	_
+6	что	что	SCONJ	_	_	26	mark	_	_
+7	хотя	хотя	SCONJ	_	_	15	mark	_	_
+8	травмы	травма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+9	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	или	или	CCONJ	_	_	11	cc	_	_
+11	аномалии	аномалия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	его	его	DET	_	_	14	det	_	_
+14	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+15	опасны	опасный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	26	advcl	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	часто	часто	ADV	_	Degree=Pos	18	advmod	_	_
+18	приводят	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+19	к	к	ADP	_	_	21	case	_	_
+20	печальным	печальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	21	amod	_	_
+21	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	18	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	незаменимых	незаменимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	отделов	отдел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+25	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+26	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 59
+# text = Буквально для любой части мозга, если человеку повезет, можно найти своего рода «исполняющего обязанности».
+1	Буквально	буквально	ADV	_	Degree=Pos	4	obl	_	_
+2	для	для	ADP	_	_	4	case	_	_
+3	любой	любой	DET	_	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
+4	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+5	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	если	если	SCONJ	_	_	9	mark	_	_
+8	человеку	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	_
+9	повезет	везти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+12	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	csubj	_	_
+13	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing	14	det	_	_
+14	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+15	«исполняющего	«исполнять	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	amod	_	_
+16	обязанности»	обязанности»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 60
+# text = То, что умеет делать нейропластичность, звучит как магия.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	что	что	PRON	_	Case=Acc	5	obj	_	_
+4	умеет	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
+5	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	нейропластичность	нейропластичность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	звучит	звучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	как	как	SCONJ	_	_	10	mark	_	_
+10	магия	магия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 61
+# text = Но это не большая магия, чем любой другой процесс, происходящий в нашем теле, если подробно в него вглядываться с точки зрения науки.
+1	Но	но	CCONJ	_	_	5	cc	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	магия	магия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	чем	чем	SCONJ	_	_	10	mark	_	_
+8	любой	любой	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
+9	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	acl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	происходящий	происходить	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	нашем	наш	DET	_	Case=Loc|Gender=Neut|Number=Sing	15	det	_	_
+15	теле	тело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	12	punct	_	_
+17	если	если	SCONJ	_	_	21	mark	_	_
+18	подробно	подробно	ADV	_	Degree=Pos	21	advmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	obl	_	_
+21	вглядываться	вглядываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	advcl	_	_
+22	с	с	ADP	_	_	23	case	_	_
+23	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	_
+24	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	compound	_	_
+25	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 62
+# text = В целом мозг — достаточно устойчивая система с определенным запасом прочности.
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+3	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	—	—	PUNCT	_	_	3	punct	_	_
+5	достаточно	достаточно	ADV	_	Degree=Pos	6	obl	_	_
+6	устойчивая	устойчивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+8	с	с	ADP	_	_	10	case	_	_
+9	определенным	определенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	запасом	запас	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	nmod	_	_
+11	прочности	прочность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 63
+# text = Без этого мы не смогли бы выжить.
+1	Без	без	ADP	_	_	2	case	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	5	nsubj	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	бы	бы	AUX	_	_	5	aux	_	_
+7	выжить	выжить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 64
+# text = Мозг картирует нас полностью: все, что мы делаем, каждое умение или часть тела имеют свое «представительство» в виде нервных путей и связанных друг с другом нейронов.
+1	Мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	картирует	картировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	2	obj	_	_
+4	полностью	полностью	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	2	punct	_	_
+6	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	что	что	PRON	_	Case=Acc	10	obj	_	_
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	10	nsubj	_	_
+10	делаем	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	каждое	каждый	DET	_	Case=Nom|Gender=Neut|Number=Sing	13	det	_	_
+13	умение	умение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	parataxis	_	_
+14	или	или	CCONJ	_	_	15	cc	_	_
+15	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	conj	_	_
+16	тела	тело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+18	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	19	det	_	_
+19	«представительство»	«представительство»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	_
+20	в	в	ADP	_	_	23	case	_	_
+21	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	fixed	_	_
+22	нервных	нервный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	путей	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+24	и	и	CCONJ	_	_	26	cc	_	_
+25	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	amod	_	_
+26	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	conj	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	другом	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	26	nmod	_	_
+29	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 65
+# text = Чем выше активность, тем больше это представительство, а чем меньше времени мы уделяем, например, тренировке какого-то навыка, тем слабее становятся связи.
+1	Чем	чем	SCONJ	_	_	2	mark	_	_
+2	выше	высокий	ADJ	_	Degree=Cmp	0	root	_	_
+3	активность	активность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	тем	тем	SCONJ	_	_	6	mark	_	_
+6	больше	больше	ADV	_	Degree=Cmp	2	advcl	_	_
+7	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	8	det	_	_
+8	представительство	представительство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	а	а	CCONJ	_	_	15	cc	_	_
+11	чем	чем	SCONJ	_	_	15	mark	_	_
+12	меньше	мало	NUM	_	_	13	nummod:gov	_	_
+13	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+14	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	15	nsubj	_	_
+15	уделяем	уделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	например	например	ADV	_	Degree=Pos	19	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	тренировке	тренировка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	iobj	_	_
+20	какого-то	какой-то	DET	_	Case=Gen|Gender=Masc|Number=Sing	21	det	_	_
+21	навыка	навык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	тем	тем	SCONJ	_	_	25	mark	_	_
+24	слабее	слабо	ADJ	_	Degree=Cmp	25	obl	_	_
+25	становятся	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	advcl	_	_
+26	связи	связь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	25	nsubj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 66
+# text = В течение жизни нейроны, входящие в такие структуры, частично обновляются, при этом сама схема сохраняется.
+1	В	в	ADP	_	_	3	case	_	_
+2	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+4	нейроны	нейрон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	входящие	входить	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	такие	такой	DET	_	Case=Acc|Number=Plur	9	det	_	_
+9	структуры	структура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	частично	частично	ADV	_	Degree=Pos	12	advmod	_	_
+12	обновляются	обновляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	при	при	ADP	_	_	15	case	_	_
+15	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+16	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	схема	схема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+18	сохраняется	сохраняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 67
+# text = В детстве мы отращиваем до тысячи новых нейронных связей в секунду.
+1	В	в	ADP	_	_	2	case	_	_
+2	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	4	nsubj	_	_
+4	отращиваем	отращивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	до	до	ADP	_	_	6	case	_	_
+6	тысячи	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+7	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+8	нейронных	нейронный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	связей	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	секунду	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 68
+# text = После этого периода высочайшей восприимчивости наступает время для нейронального (синаптического) прунинга.
+1	После	после	ADP	_	_	3	case	_	_
+2	этого	это	DET	_	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+3	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+4	высочайшей	высокий	ADJ	_	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	5	amod	_	_
+5	восприимчивости	восприимчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+8	для	для	ADP	_	_	13	case	_	_
+9	нейронального	нейрональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	синаптического	синаптический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	11	punct	_	_
+13	прунинга	прунинг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 69
+# text = Мозг стремится делать схемы взаимодействия нейронов в сетях-представительствах максимально простыми.
+1	Мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	схемы	схема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+5	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	сетях	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	представительствах	представительство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	parataxis	_	_
+11	максимально	максимально	ADV	_	Degree=Pos	12	obl	_	_
+12	простыми	простой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 70
+# text = Количество синапсов и нейронов в этих связках стремится к оптимальному минимуму, отсекая излишки через элиминацию синапсов.
+1	Количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+2	синапсов	синапс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	этих	этот	DET	_	Case=Loc|Number=Plur	7	det	_	_
+7	связках	связка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
+8	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	к	к	ADP	_	_	11	case	_	_
+10	оптимальному	оптимальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	минимуму	минимум	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	отсекая	отсекать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	_
+14	излишки	излишек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+15	через	через	ADP	_	_	16	case	_	_
+16	элиминацию	элиминация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+17	синапсов	синапс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 71
+# text = Этот процесс противостоит постоянно возникающим в процессе обучения новым связям между нейронами и их группами.
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	противостоит	противостоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	постоянно	постоянно	ADV	_	Degree=Pos	5	advmod	_	_
+5	возникающим	возникать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	xcomp	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+8	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	новым	новый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	amod	_	_
+10	связям	связь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	iobj	_	_
+11	между	между	ADP	_	_	12	case	_	_
+12	нейронами	нейрон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	nmod	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	их	их	DET	_	_	15	det	_	_
+15	группами	группа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 72
+# text = Проще говоря, без прунинга наш мозг превратился бы в огромный беспорядочный клубок связей, малоэффективный как для обработки информации, так и с точки зрения энергетического баланса.
+1	Проще	просто	ADV	_	Degree=Cmp	2	advmod	_	_
+2	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	без	без	ADP	_	_	5	case	_	_
+5	прунинга	прунинг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	_
+6	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
+7	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	превратился	превратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	бы	бы	AUX	_	_	8	aux	_	_
+10	в	в	ADP	_	_	13	case	_	_
+11	огромный	огромный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+12	беспорядочный	беспорядочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	клубок	клубок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+14	связей	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	малоэффективный	малоэффективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	_
+17	как	как	SCONJ	_	_	19	mark	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	обработки	обработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+20	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	так	так	ADV	_	Degree=Pos	25	cc	_	_
+23	и	и	PART	_	_	22	fixed	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	orphan	_	_
+26	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	compound	_	_
+27	энергетического	энергетический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	баланса	баланс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 73
+# text = Благодаря постоянному поддержанию равновесия между созданием связей и их разрушением, мозг имеет способность в случае необходимости искать новые пути для функционирования внезапно сломавшихся частей.
+1	Благодаря	благодаря	ADP	_	_	3	case	_	_
+2	постоянному	постоянный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	поддержанию	поддержание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	obl	_	_
+4	равновесия	равновесие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	между	между	ADP	_	_	6	case	_	_
+6	созданием	создание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	nmod	_	_
+7	связей	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	10	nmod	_	_
+10	разрушением	разрушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	_
+17	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	obl	_	_
+19	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	_
+20	пути	путь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	18	obj	_	_
+21	для	для	ADP	_	_	22	case	_	_
+22	функционирования	функционирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	внезапно	внезапно	ADV	_	Degree=Pos	24	advmod	_	_
+24	сломавшихся	ломаться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	25	acl	_	_
+25	частей	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+
+# sent_id = 74
+# text = На этих свойствах мозга основаны, например, техники постинсультной реабилитации.
+1	На	на	ADP	_	_	3	case	_	_
+2	этих	этот	DET	_	Case=Loc|Number=Plur	3	det	_	_
+3	свойствах	свойство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	obl	_	_
+4	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	основаны	основать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	например	например	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	техники	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+10	постинсультной	постинсультный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	реабилитации	реабилитация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 75
+# text = Если пациент вынужден пытаться пользоваться конечностью, управляющий центр которой в мозгу пострадал, он активирует уцелевшие участки этой системы, которые ищут «обходные пути».
+1	Если	если	SCONJ	_	_	3	mark	_	_
+2	пациент	пациент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+3	вынужден	вынужденный	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	advcl	_	_
+4	пытаться	пытаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	_
+5	пользоваться	пользоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	_
+6	конечностью	конечность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	управляющий	управлять	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+9	центр	центр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+10	которой	который	PRON	_	Case=Gen	9	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	мозгу	мозг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	_
+13	пострадал	страдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+16	активирует	активировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+17	уцелевшие	уцелеть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	amod	_	_
+18	участки	участок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
+19	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	20	det	_	_
+20	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	которые	который	PRON	_	Case=Nom	23	nsubj	_	_
+23	ищут	искать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+24	«обходные	«обходный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	25	amod	_	_
+25	пути»	пути»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+
+# sent_id = 76
+# text = Связываясь с подходящими по своим функциям нейронами, структура пытается заново принять привычную форму, насколько это возможно.
+1	Связываясь	связываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	10	advcl	_	_
+2	с	с	ADP	_	_	7	case	_	_
+3	подходящими	подходять	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+4	по	по	ADP	_	_	6	case	_	_
+5	своим	свой	DET	_	Case=Dat|Number=Plur	6	det	_	_
+6	функциям	функция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	obl	_	_
+7	нейронами	нейрон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	структура	структура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	пытается	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	заново	заново	ADV	_	Degree=Pos	12	advmod	_	_
+12	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+13	привычную	привычный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	насколько	насколько	ADV	_	Degree=Pos	18	obl	_	_
+17	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+18	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 77
+# text = Чем больше уцелело оригинальных нейронов и чем больше вокруг них «учителей на замену», тем проще и полнее восстановится функция.
+1	Чем	чем	SCONJ	_	_	3	mark	_	_
+2	больше	много	ADV	_	Degree=Cmp	3	advmod	_	_
+3	уцелело	уцелеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	оригинальных	оригинальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	нейронов	нейрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	чем	чем	SCONJ	_	_	8	mark	_	_
+8	больше	много	NUM	_	_	3	conj	_	_
+9	вокруг	вокруг	ADP	_	_	10	case	_	_
+10	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	11	nmod	_	_
+11	«учителей	«учитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	замену»	замену»	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	тем	тем	SCONJ	_	_	19	mark	_	_
+16	проще	просто	ADV	_	Degree=Cmp	19	advmod	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	полнее	полно	ADV	_	Degree=Cmp	16	conj	_	_
+19	восстановится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	advcl	_	_
+20	функция	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 78
+# text = Кроме того, чем младше человек в тот момент, когда мозгу надо изобрести новый способ функционирования какой-то его части, тем больше шансов на успех.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	чем	чем	SCONJ	_	_	5	mark	_	_
+5	младше	младший	ADJ	_	Degree=Cmp	2	acl	_	_
+6	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	9	det	_	_
+9	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	когда	когда	SCONJ	_	_	13	mark	_	_
+12	мозгу	мозг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	_
+13	надо	надо	ADV	_	Degree=Pos	9	acl	_	_
+14	изобрести	изобрести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	csubj	_	_
+15	новый	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	способ	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+17	функционирования	функционирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	какой-то	какой-то	DET	_	Case=Gen|Gender=Fem|Number=Sing	20	det	_	_
+19	его	его	DET	_	_	20	det	_	_
+20	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	тем	тем	SCONJ	_	_	23	mark	_	_
+23	больше	много	NUM	_	_	13	advcl	_	_
+24	шансов	шанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	obl	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	успех	успех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 79
+# text = При врожденных дефектах такая перестройка подготавливается еще внутриутробно.
+1	При	при	ADP	_	_	3	case	_	_
+2	врожденных	врожденный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	3	amod	_	_
+3	дефектах	дефект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	_
+4	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	5	det	_	_
+5	перестройка	перестройка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+6	подготавливается	подготавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	еще	еще	ADV	_	Degree=Pos	8	advmod	_	_
+8	внутриутробно	внутриутробно	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 80
+# text = В случае с французским пациентом разрушения в его мозгу хоть и были невероятно обширными и наступили, по всей видимости, уже после 14 лет, но зато происходили они медленно, что дало время мозгу перестраиваться не спеша.
+1	В	в	ADP	_	_	2	case	_	_
+2	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+3	с	с	ADP	_	_	5	case	_	_
+4	французским	французский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	пациентом	пациент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	_
+6	разрушения	разрушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	его	его	DET	_	_	9	det	_	_
+9	мозгу	мозг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+10	хоть	хоть	ADV	_	Degree=Pos	14	advmod	_	_
+11	и	и	PART	_	_	10	fixed	_	_
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
+13	невероятно	невероятно	ADV	_	Degree=Pos	14	obl	_	_
+14	обширными	обширный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	0	root	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	наступили	наступать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	_
+18	по	по	ADP	_	_	20	case	_	_
+19	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing	20	det	_	_
+20	видимости	видимость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	25	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	уже	уже	ADV	_	Degree=Pos	25	obl	_	_
+23	после	после	ADP	_	_	25	case	_	_
+24	14	14	NUM	_	_	25	nummod	_	_
+25	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	но	но	CCONJ	_	_	29	cc	_	_
+28	зато	зато	PART	_	_	29	advmod	_	_
+29	происходили	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
+30	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	29	nsubj	_	_
+31	медленно	медленно	ADV	_	Degree=Pos	29	advmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	что	что	SCONJ	_	_	34	mark	_	_
+34	дало	дасть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	ccomp	_	_
+35	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	34	nsubj	_	_
+36	мозгу	мозг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	34	iobj	_	_
+37	перестраиваться	перестраиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	34	xcomp	_	_
+38	не	не	PART	_	_	39	advmod	_	_
+39	спеша	спешить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	37	advcl	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 81
+# text = Что могло дать такой эффект?
+1	Что	что	PRON	_	Case=Nom	2	nsubj	_	_
+2	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	дать	дывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	такой	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	эффект	эффект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 82
+# text = Один из вариантов — генетические аномалии, возможно, сцепленные с полом, при которых обонятельные луковицы редуцированы так, что обонятельная информация идет обходным путем.
+1	Один	один	NUM	_	Case=Nom|Gender=Masc	0	root	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	вариантов	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	—	—	PUNCT	_	_	6	punct	_	_
+5	генетические	генетический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	аномалии	аномалия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	appos	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	возможно	возможно	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	сцепленные	сцеплеть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	полом	пол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	при	при	ADP	_	_	15	case	_	_
+15	которых	который	PRON	_	Case=Loc	18	obl	_	_
+16	обонятельные	обонятельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	луковицы	луковица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj:pass	_	_
+18	редуцированы	редуцировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	acl:relcl	_	_
+19	так	так	ADV	_	Degree=Pos	18	advmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	что	что	SCONJ	_	_	24	mark	_	_
+22	обонятельная	обонятельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
+24	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	_
+25	обходным	обходной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	путем	путь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	obl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = Другой — старая, добрая нейропластичность.
+1	Другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+2	—	—	PUNCT	_	_	1	punct	_	_
+3	старая	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	добрая	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	_
+6	нейропластичность	нейропластичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Возможно, другие системы в связанных с обонянием отделах и структурах мозга смогли создать ансамбли, которые заменили все функции луковиц без потери качества жизни.
+1	Возможно	возможно	ADV	_	Degree=Pos	13	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
+5	в	в	ADP	_	_	9	case	_	_
+6	связанных	связать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	обонянием	обоняние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+9	отделах	отдел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	структурах	структура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	conj	_	_
+12	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	ансамбли	ансамбль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	которые	который	PRON	_	Case=Nom	18	nsubj	_	_
+18	заменили	заменить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
+19	все	весь	DET	_	Case=Acc|Number=Plur	20	det	_	_
+20	функции	функция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	_
+21	луковиц	луковица	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	18	obl	_	_
+22	без	без	ADP	_	_	23	case	_	_
+23	потери	потеря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 85
+# text = Как мы видели, история знает и не такие случаи.
+1	Как	как	SCONJ	_	_	3	mark	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	такие	такой	DET	_	Case=Acc|Number=Plur	10	det	_	_
+10	случаи	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 86
+# text = В-третьих, есть шанс, что мы неполно или принципиально неверно представляем себе весь аппарат обонятельной системы человека.
+1	В-третьих	в-третьих	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	шанс	шанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	что	что	SCONJ	_	_	12	mark	_	_
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	12	nsubj	_	_
+8	неполно	неполно	ADV	_	Degree=Pos	12	advmod	_	_
+9	или	или	CCONJ	_	_	10	cc	_	_
+10	принципиально	принципиально	ADV	_	Degree=Pos	8	conj	_	_
+11	неверно	неверно	ADV	_	Degree=Pos	12	advmod	_	_
+12	представляем	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+13	себе	себя	PRON	_	Case=Dat	12	obl	_	_
+14	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing	15	det	_	_
+15	аппарат	аппарат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+16	обонятельной	обонятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 87
+# text = Если этому найдутся подтверждения, авторы изначальной статьи, конечно, приобретут лавры ученых, изменивших целую отрасль науки.
+1	Если	если	SCONJ	_	_	3	mark	_	_
+2	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	_
+3	найдутся	найтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	12	advcl	_	_
+4	подтверждения	подтверждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+7	изначальной	изначальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	конечно	конечно	ADV	_	Degree=Pos	12	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	приобретут	приобрести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+13	лавры	лавр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+14	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	изменивших	изменить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	14	acl	_	_
+17	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	отрасль	отрасль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+19	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 88
+# text = Этот (несомненно, лестный для них) сценарий, впрочем, вряд ли возможен.
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	9	det	_	_
+2	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+3	несомненно	несомненно	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	лестный	лестный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	5	obl	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	5	punct	_	_
+9	сценарий	сценарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	впрочем	впрочем	ADV	_	Degree=Pos	15	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	вряд	вряд	ADV	_	Degree=Pos	15	advmod	_	_
+14	ли	ли	PART	_	_	13	fixed	_	_
+15	возможен	возможный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 89
+# text = Не все исследования обонятельной системы, проводившиеся на животных, можно повторить на людях — прежде всего с этической точки зрения.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	все	весь	DET	_	Case=Nom|Number=Plur	3	det	_	_
+3	исследования	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	_
+4	обонятельной	обонятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	проводившиеся	проводиться	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	3	acl	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	животных	животное	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+12	повторить	повторить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	csubj	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	людях	человек	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	12	obl	_	_
+15	—	—	PUNCT	_	_	20	punct	_	_
+16	прежде	прежде	ADP	_	_	20	advmod	_	_
+17	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	fixed	_	_
+18	с	с	ADP	_	_	20	case	_	_
+19	этической	этический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+21	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	compound	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 90
+# text = Но все же она неплохо картирована, и, скорее всего, речь идет о двух других вероятностях.
+1	Но	но	CCONJ	_	_	6	cc	_	_
+2	все	все	PART	_	_	6	advmod	_	_
+3	же	же	PART	_	_	2	fixed	_	_
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj:pass	_	_
+5	неплохо	неплохо	ADV	_	Degree=Pos	6	advmod	_	_
+6	картирована	картировать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	и	и	CCONJ	_	_	14	cc	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	скорее	скорее	ADV	_	Degree=Pos	14	parataxis	_	_
+11	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+15	о	о	ADP	_	_	18	case	_	_
+16	двух	два	NUM	_	Case=Loc	18	nummod	_	_
+17	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	вероятностях	вероятность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 91
+# text = Ну и не стоит сбрасывать со счетов то, что все же остается вероятность (хоть и очень небольшая) простой ошибки.
+1	Ну	ну	PART	_	_	4	parataxis	_	_
+2	и	и	CCONJ	_	_	4	cc	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	сбрасывать	сбрасывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	со	с	ADP	_	_	7	case	_	_
+7	счетов	счет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+8	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	что	что	SCONJ	_	_	13	mark	_	_
+11	все	все	PART	_	_	13	advmod	_	_
+12	же	же	PART	_	_	11	fixed	_	_
+13	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	acl	_	_
+14	вероятность	вероятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+15	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+16	хоть	хоть	ADV	_	Degree=Pos	19	obl	_	_
+17	и	и	PART	_	_	16	fixed	_	_
+18	очень	очень	ADV	_	Degree=Pos	19	obl	_	_
+19	небольшая	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	parataxis	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	простой	простой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	ошибки	ошибка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 92
+# text = Луковицы могут быть просто или очень маленькие, или крайне нетипично расположенные.
+1	Луковицы	луковица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	_
+4	просто	просто	PART	_	_	7	advmod	_	_
+5	или	или	CCONJ	_	_	7	cc	_	_
+6	очень	очень	ADV	_	Degree=Pos	7	obl	_	_
+7	маленькие	маленький	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	или	или	CCONJ	_	_	12	cc	_	_
+10	крайне	крайне	ADV	_	Degree=Pos	11	advmod	_	_
+11	нетипично	нетипичный	ADV	_	Degree=Pos	12	advmod	_	_
+12	расположенные	расположенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 93
+# text = Транспозиция органов — не редкий случай, а порой бывает так, что у пациента, скажем, зуб растет в носу.
+1	Транспозиция	Транспозиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+2	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	—	—	PUNCT	_	_	1	punct	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	редкий	редкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	а	а	CCONJ	_	_	10	cc	_	_
+9	порой	порой	ADV	_	Degree=Pos	10	advmod	_	_
+10	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+11	так	так	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	20	punct	_	_
+13	что	что	SCONJ	_	_	20	mark	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	пациента	пациент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	20	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	зуб	зуб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+20	растет	расти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	носу	нос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 94
+# text = Так что, возможно, пока научный мир пытается придумать красивое объяснение уникальному феномену, луковицы мирно живут своей жизнью где-то на задворках соседнего отдела мозга и ни о чем не переживают.
+1	Так	так	ADV	_	Degree=Pos	9	parataxis	_	_
+2	что	что	SCONJ	_	_	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	возможно	возможно	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	пока	пока	SCONJ	_	_	9	mark	_	_
+7	научный	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	пытается	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	придумать	придумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	красивое	красивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	объяснение	объяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+13	уникальному	уникальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	феномену	феномен	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	луковицы	луковица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+17	мирно	мирно	ADV	_	Degree=Pos	18	advmod	_	_
+18	живут	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+19	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	20	det	_	_
+20	жизнью	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	obl	_	_
+21	где-то	где-то	ADV	_	Degree=Pos	23	obl	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	задворках	задворки	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	obl	_	_
+24	соседнего	соседний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	отдела	отдел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+26	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+27	и	и	CCONJ	_	_	32	cc	_	_
+28	ни	ни	PART	_	_	30	advmod	_	_
+29	о	о	ADP	_	_	30	case	_	_
+30	чем	что	PRON	_	Case=Loc	32	obl	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	переживают	переживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n
+
